@@ -1,2 +1,2 @@
 all:
-	clang++ check.cpp $(shell pkg-config --cflags --libs libhttpserver) -o net.out
+	clang++ main.cpp -std=c++20 $(shell pkg-config --cflags --libs libhttpserver) -lssl -lcrypto -pthread -o net.out
