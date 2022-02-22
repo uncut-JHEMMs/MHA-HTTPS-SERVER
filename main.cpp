@@ -6,6 +6,9 @@
 #include <condition_variable>
 #include <iomanip>
 
+//resources
+#include "./resources/digest_resource.h"
+
 using namespace httpserver;
 
 
@@ -74,6 +77,7 @@ public:
     }
 };
 
+
 int main(int argc, char** argv) 
 {
     
@@ -83,18 +87,24 @@ int main(int argc, char** argv)
         .connection_timeout(60)
         .per_IP_connection_limit(2)
         .use_dual_stack()
-        //.use_ssl()
-        //.https_mem_trust("./certificates/ca/root-ca.crt")
-        //.https_mem_key("./certificates/ca/root-ca/private/root-ca.key")
-        //.https_mem_cert("./certificates/ca/root-ca.crt")
+        .use_ssl()
+        .https_mem_trust("./certs/newcert.crt")
+        .https_mem_key("./certs/newkey.pem")
+        .https_mem_cert("./certs/newcert.crt")
         .log_access(custom_access_log)
         .debug()
         .not_found_resource(not_found_custom);
     
 
     std::thread t(performanceLogger);
+    
     hello_world_resource hwr;
     ws.register_resource("/hello", &hwr);
+    
+    digest_resource dr;
+    ws.register_resource("/auth" , &dr);
+
+
     ws.start(true);
     
     t.join();
