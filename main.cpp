@@ -6,39 +6,16 @@
 #include <condition_variable>
 #include <iomanip>
 
+
+
+//logger
+#include "./loggers/PerformanceLogger.h"
 //resources
 #include "./resources/digest_resource.h"
+#include "./resources/hello_world_resource.h"
 
 using namespace httpserver;
 
-
-//creating global binary semaphore
-std::mutex m;
-std::condition_variable cv;
-bool sig = false;
-
-void performanceLogger()
-{
-    while(true){
-    
-    std::unique_lock<std::mutex> lk(m);
-    cv.wait(lk , []{return sig;});
-    auto start = std::chrono::high_resolution_clock::now();
-    sig = false;
-    lk.unlock();
-
-    lk.lock();
-    cv.wait(lk , [] {return sig;});
-    auto end = std::chrono::high_resolution_clock::now();
-    auto time_taken  = std::chrono::duration_cast<std::chrono::nanoseconds>(end - start).count();
-    time_taken *= 1e-9;
-    
-
-    std::cout << "Time taken to process request is : " << time_taken << std::setprecision(9)<<std::endl;
-    sig = false;
-    lk.unlock();
-    }
-}
 
 
 // printing logs to terminal
@@ -46,10 +23,10 @@ void custom_access_log(const std::string& url) {
     std::cout << "ACCESSING: " << url << std::endl;
     
         {
-            std::lock_guard<std::mutex> lk(m);
-            sig = true;
+            std::lock_guard<std::mutex> lk(PerformanceLogger::m);
+            PerformanceLogger::sig = true;
         }
-        cv.notify_one();
+        PerformanceLogger::cv.notify_one();
 }
 
 // if resource not found
@@ -57,25 +34,6 @@ const std::shared_ptr<http_response> not_found_custom(const http_request& req)
 {
       return std::shared_ptr<string_response>(new string_response("Path Not Found", 404, "text/plain"));
 }
-
-// /hello path
-class hello_world_resource : public http_resource 
-{
-public:
-    const std::shared_ptr<http_response> render(const http_request& req) 
-    {
-        //std::cout << "request recieved" << std::endl;
-        std::string data = req.get_arg("data");
-        std::cout << "request recieved with data : " << data <<  std::endl;
-        {
-            std::lock_guard<std::mutex> lk(m);
-            sig = true;
-        }
-        cv.notify_one();
-        return std::shared_ptr<http_response>(new string_response("Hello, World!" + data));
-
-    }
-};
 
 
 int main(int argc, char** argv) 
@@ -96,7 +54,7 @@ int main(int argc, char** argv)
         .not_found_resource(not_found_custom);
     
 
-    std::thread t(performanceLogger);
+    std::thread t(PerformanceLogger::calculateResponseTime);
     
     hello_world_resource hwr;
     ws.register_resource("/hello", &hwr);
