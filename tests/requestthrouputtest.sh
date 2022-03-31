@@ -17,7 +17,6 @@ get()
     ((total_reqs++))
     #statue check add passsed req or fialed req
     if ! [ ${status} -eq 200 ];then
-        echo "iside if"
         ((failed++))
     else
         ((passed++))
