@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<signature key_info="RSA">
+    <Certificate>-----BEGIN PUBLIC KEY-----&#x0A;MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyXkkvd1ozSIAyPr3WFdL&#x0A;O2q+Hz+WRTiOqjR2D+fFTpWVEhhbVG1hLiU9hvPci9BJhcsYX+xfRzA2am9X0hzm&#x0A;uxQj5VvI5NnjqXf9aYsxTWJS62/HWgxbABu72CZNjBUbKSFUdtokjczUNrDsNGaV&#x0A;gV3MLboy6ayeMVYxlZ8+HZFu8H5KuZ+DWKfkdtB2zaGLsBK7R+B23fqVuZ3l8eGz&#x0A;oyyGMQTOxiPNHJFTV/Z2QLzvAVyiHvvLJohS0xhiqG5/OqgSf5X2FDrEdpGIFOLY&#x0A;XDJO8Y9aeCfTJQR77RXMXLThXA6cgKvUDnSBrK6mPFbAPzJnTP/4ij9xhterpjN8&#x0A;EQIDAQAB&#x0A;-----END PUBLIC KEY-----&#x0A;</Certificate>
+    <Digest Value>sjtT6a71t/HwAE9QQeiF0CNwpWCd/lovZ/SnAxbx3VgZ8Sbme4acUh0XTz3nMqs9&#x0A;FF6jVSrMTAgC5x3bJx7Z0hXHL+LEtIzGOeXz16fvvbuGN34AfXsIRoyE1zFDxJW5&#x0A;OvB8vf6G6B/3xzgSbOzSS4lgQbwH0vBFudwusiZLiHMtwJGamEjYMYg2IEqW8Xfi&#x0A;fNyx14l4fao5sHLxEWU8ipk/JvNTXICTYCIY5ji9fq887MtMvzTfSs84klPakGi8&#x0A;V0F2MFTxtktApZHB+Tvm8jpbgLSF833I5cRboixvOcgHF9uLeT9kAYaE4wOxULog&#x0A;+iYWp48Bhl1ZBfN7fmHc5w==&#x0A;</Digest Value>
+</signature>
+<Merchant Merchant_id="4241336128694185533">
+    <Merchant Name>Delgado-Washington</Merchant Name>
+    <Type>Group</Type>
+</Merchant>

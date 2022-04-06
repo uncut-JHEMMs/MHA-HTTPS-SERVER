@@ -5,3 +5,8 @@ class HelloWorldUser(HttpUser):
     def hello_world(self):
         self.client.verify = False
         self.client.get("/hello")
+    
+    @task(3)
+    def add_user(self):
+        self.client.verify = False
+        self.client.get("/addUser")

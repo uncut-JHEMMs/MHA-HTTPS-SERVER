@@ -9,6 +9,9 @@
 #include "../models/CreditCard.hpp"
 #include "../models/Merchant.hpp"
 
+//siging class
+#include "../utilities/signer.hpp"
+
 class MyXmlClass
 {
     private:
@@ -25,6 +28,20 @@ class MyXmlClass
 
         bool add_user(Customer &user)
         {
+            Signer sig("../../ca.key" , "../../ca-pub.pem");
+
+            TiXmlElement *signature_element = new TiXmlElement("Signature");
+            signature_element->SetAttribute("key_info" , "RSA");
+            TiXmlElement *key_element = new TiXmlElement("Certificate");
+            key_element->LinkEndChild(new TiXmlText(sig.get_certificate()));
+
+            TiXmlElement *digest_element = new TiXmlElement("Digest Value");
+            std::string str = user.get_uid() + user.get_email() + user.get_first_name() + user.get_last_name();
+            digest_element->LinkEndChild(new TiXmlText(sig.signMessage(str) ));
+            signature_element->LinkEndChild(key_element);
+            signature_element->LinkEndChild(digest_element);
+            
+            
             TiXmlElement *person_element = new TiXmlElement("Person");
             person_element->SetAttribute("id" , "ssn");
 
@@ -46,6 +63,7 @@ class MyXmlClass
             customer_element->LinkEndChild(email_element);  
 
             doc.LinkEndChild(decl);
+            doc.LinkEndChild(signature_element);
             doc.LinkEndChild(person_element);
             file_name = "xmldatabase/Users/"+file_name+".xml";
             doc.SaveFile(file_name.c_str());
@@ -54,6 +72,19 @@ class MyXmlClass
 
         bool add_card(CreditCard &crd)
         {
+
+            Signer sig("../../ca.key" , "../../ca-pub.pem");
+            
+            TiXmlElement *signature_element = new TiXmlElement("signature");
+            signature_element->SetAttribute("key_info" , "RSA");
+            TiXmlElement *key_element = new TiXmlElement("Certificate");
+            key_element->LinkEndChild(new TiXmlText(sig.get_certificate()));
+            TiXmlElement *digest_element = new TiXmlElement("Digest Value");
+            digest_element->LinkEndChild(new TiXmlText(sig.signMessage(crd.get_holder_id() + crd.get_card_number() + crd.get_card_type())));
+            signature_element->LinkEndChild(key_element);
+            signature_element->LinkEndChild(digest_element);
+
+            
             TiXmlElement *card = new TiXmlElement("CreditCard");
             card->SetAttribute("holder_id" , crd.get_holder_id());
 
@@ -62,11 +93,13 @@ class MyXmlClass
             card->LinkEndChild(card_number);
 
             TiXmlElement *card_type = new TiXmlElement("Type");
-            card_type->LinkEndChild(new TiXmlText("default"));
+            card_type->LinkEndChild(new TiXmlText(crd.get_card_type()));
             card->LinkEndChild(card_type);
 
             doc.LinkEndChild(decl);
+            doc.LinkEndChild(signature_element);
             doc.LinkEndChild(card);
+
             file_name = "xmldatabase/CreditCards/"+file_name+".xml";
             doc.SaveFile(file_name);
             return true;
@@ -74,6 +107,17 @@ class MyXmlClass
 
         bool add_merchant(Merchant &crd)
         {
+            Signer sig("../../ca.key" , "../../ca-pub.pem");
+            
+            TiXmlElement *signature_element = new TiXmlElement("signature");
+            signature_element->SetAttribute("key_info" , "RSA");
+            TiXmlElement *key_element = new TiXmlElement("Certificate");
+            key_element->LinkEndChild(new TiXmlText(sig.get_certificate()));
+            TiXmlElement *digest_element = new TiXmlElement("Digest Value");
+            digest_element->LinkEndChild(new TiXmlText(sig.signMessage(crd.get_merchant_id() + crd.get_merchant_name() + crd.get_merchant_type())));
+            signature_element->LinkEndChild(key_element);
+            signature_element->LinkEndChild(digest_element);
+            
             TiXmlElement *card = new TiXmlElement("Merchant");
             card->SetAttribute("Merchant_id" , crd.get_merchant_id());
 
@@ -86,6 +130,7 @@ class MyXmlClass
             card->LinkEndChild(merchant_type);
 
             doc.LinkEndChild(decl);
+            doc.LinkEndChild(signature_element);
             doc.LinkEndChild(card);
             file_name = "xmldatabase/Merchants/"+file_name+".xml";
             doc.SaveFile(file_name);

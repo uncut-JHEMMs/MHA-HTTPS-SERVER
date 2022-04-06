@@ -1,8 +1,0 @@
-<?xml version="1.0" ?>
-<Person id="ssn">
-    <Cutomer uid="125">
-        <First Name>Kathleen</First Name>
-        <Last Name>Carr</Last Name>
-        <Email>KathleenCarr@smoothstack.com</Email>
-    </Cutomer>
-</Person>

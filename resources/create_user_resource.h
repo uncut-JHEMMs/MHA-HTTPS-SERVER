@@ -26,6 +26,6 @@ class create_user_resource : public http_resource
 
             MyXmlClass xmlobj(user.get_uid());
             xmlobj.add_user(user);
-            return std::shared_ptr<http_response>(new string_response("Success fully added the user boo ah"));
+            return std::shared_ptr<file_response>(new file_response("./xmldatabase/Users/"+user.get_uid()+".xml" , 201 , "text/plain"  ));
         }
 };

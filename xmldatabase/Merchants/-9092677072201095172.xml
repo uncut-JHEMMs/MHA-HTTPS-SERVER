@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<signature key_info="RSA">
+    <Certificate>-----BEGIN PUBLIC KEY-----&#x0A;MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyXkkvd1ozSIAyPr3WFdL&#x0A;O2q+Hz+WRTiOqjR2D+fFTpWVEhhbVG1hLiU9hvPci9BJhcsYX+xfRzA2am9X0hzm&#x0A;uxQj5VvI5NnjqXf9aYsxTWJS62/HWgxbABu72CZNjBUbKSFUdtokjczUNrDsNGaV&#x0A;gV3MLboy6ayeMVYxlZ8+HZFu8H5KuZ+DWKfkdtB2zaGLsBK7R+B23fqVuZ3l8eGz&#x0A;oyyGMQTOxiPNHJFTV/Z2QLzvAVyiHvvLJohS0xhiqG5/OqgSf5X2FDrEdpGIFOLY&#x0A;XDJO8Y9aeCfTJQR77RXMXLThXA6cgKvUDnSBrK6mPFbAPzJnTP/4ij9xhterpjN8&#x0A;EQIDAQAB&#x0A;-----END PUBLIC KEY-----&#x0A;</Certificate>
+    <Digest Value>X9hAGQOfA0F+tmJEVno242zXQuXu0cik2YjjcMLGszVkVx7aGkVWYZ/KZSymozuo&#x0A;mtEDtm1VHPax0QKK5UwWzuxTUETZExhYjLhVJk+XnfsZk7oEHRlo+XMKQ5mEagGc&#x0A;EVPqQ7goAmwxSuRoaGLpasFNAFXLwkVbnNMqI3r6YdtM17Y422ibD6EM/IvDqbUK&#x0A;rMcvtS/YRvWY107QoaeNFTVNQaJEkNSWOprpRN7dGFdIeBU3RIn5oZ8k0+5PUfhy&#x0A;iVeNUt9ppudp9fBy1Ys8EjDUFjcmP7nOWK/Jcx//rKOjEIONQJ1GcGMvkC3882MK&#x0A;s94JFAZm1OlNHEsYxeVTfA==&#x0A;</Digest Value>
+</signature>
+<Merchant Merchant_id="-9092677072201095172">
+    <Merchant Name>Mejia</Merchant Name>
+    <Type>Inc</Type>
+</Merchant>

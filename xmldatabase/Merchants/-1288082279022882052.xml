@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<signature key_info="RSA">
+    <Certificate>-----BEGIN PUBLIC KEY-----&#x0A;MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyXkkvd1ozSIAyPr3WFdL&#x0A;O2q+Hz+WRTiOqjR2D+fFTpWVEhhbVG1hLiU9hvPci9BJhcsYX+xfRzA2am9X0hzm&#x0A;uxQj5VvI5NnjqXf9aYsxTWJS62/HWgxbABu72CZNjBUbKSFUdtokjczUNrDsNGaV&#x0A;gV3MLboy6ayeMVYxlZ8+HZFu8H5KuZ+DWKfkdtB2zaGLsBK7R+B23fqVuZ3l8eGz&#x0A;oyyGMQTOxiPNHJFTV/Z2QLzvAVyiHvvLJohS0xhiqG5/OqgSf5X2FDrEdpGIFOLY&#x0A;XDJO8Y9aeCfTJQR77RXMXLThXA6cgKvUDnSBrK6mPFbAPzJnTP/4ij9xhterpjN8&#x0A;EQIDAQAB&#x0A;-----END PUBLIC KEY-----&#x0A;</Certificate>
+    <Digest Value>nadIwngpyCg3em4Mn1EUcYJP7Qxx9hczAaFwA/kipuevcq/UpAjjYImld6wEQ1b3&#x0A;6XBbSDO4EwIz+pVsOi9Eve6o5aNOQ6ahsuO/nBAPWOi3fD13trj3Za+ksAdVo+BF&#x0A;8RDLCkCHz8x11RNnyN2LrBS+IPuZ2NYpFA482pGTgJ0WGZg1UUEIN0HDmv7L7inT&#x0A;0dldjkycXJDHFBBpycstBaICmVVO1fZ1oWyEWNDuYV5Gp+xsbKD3ZIpeAVwzGJpc&#x0A;CGLFhvRFs/lztMLE8zWlId7Lrc7JdnknmUbfY2tsdWZ+0Xm3Ydcd+DMCGsd3e142&#x0A;YnTGNXyTacNL8tusTrG8+w==&#x0A;</Digest Value>
+</signature>
+<Merchant Merchant_id="-1288082279022882052">
+    <Merchant Name>Taylor</Merchant Name>
+    <Type>Inc</Type>
+</Merchant>

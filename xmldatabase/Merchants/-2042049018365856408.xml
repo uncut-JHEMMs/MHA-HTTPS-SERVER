@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<signature key_info="RSA">
+    <Certificate>-----BEGIN PUBLIC KEY-----&#x0A;MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyXkkvd1ozSIAyPr3WFdL&#x0A;O2q+Hz+WRTiOqjR2D+fFTpWVEhhbVG1hLiU9hvPci9BJhcsYX+xfRzA2am9X0hzm&#x0A;uxQj5VvI5NnjqXf9aYsxTWJS62/HWgxbABu72CZNjBUbKSFUdtokjczUNrDsNGaV&#x0A;gV3MLboy6ayeMVYxlZ8+HZFu8H5KuZ+DWKfkdtB2zaGLsBK7R+B23fqVuZ3l8eGz&#x0A;oyyGMQTOxiPNHJFTV/Z2QLzvAVyiHvvLJohS0xhiqG5/OqgSf5X2FDrEdpGIFOLY&#x0A;XDJO8Y9aeCfTJQR77RXMXLThXA6cgKvUDnSBrK6mPFbAPzJnTP/4ij9xhterpjN8&#x0A;EQIDAQAB&#x0A;-----END PUBLIC KEY-----&#x0A;</Certificate>
+    <Digest Value>oFzT3xGMjN9vu/jIAUATAjjG6SVe3EUy2KKLqo6bxSYywBEy6J0YrxmCBL3AW/Ya&#x0A;IrAA1QOSf2OvMsenseYl5aBKb8QT59bP3U+idBtEjwQ6GSFQWjWSdI9V0faCYeY1&#x0A;/DevgS63gE8CJHzONkxTPim4T21BdoCm0NWgek4trAXhD9xS+9vvqEM43g+5KIam&#x0A;8o0XDjogk3Jcgk598CK1Qke8AEvuynPQ+xlwwjHJkj7TBqU9GKeuBFj/S08SQNEf&#x0A;TeBC1BAWFSZgVBQ9Ep86RZZHUFj7H3un085zRuKAeKX8ZiCiYCgpMVwJp7cynPa6&#x0A;hwmqqf7PYJAz47lC2TTv2w==&#x0A;</Digest Value>
+</signature>
+<Merchant Merchant_id="-2042049018365856408">
+    <Merchant Name>Howell</Merchant Name>
+    <Type>PLC</Type>
+</Merchant>

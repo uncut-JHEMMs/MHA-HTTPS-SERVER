@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<signature key_info="RSA">
+    <Certificate>-----BEGIN PUBLIC KEY-----&#x0A;MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyXkkvd1ozSIAyPr3WFdL&#x0A;O2q+Hz+WRTiOqjR2D+fFTpWVEhhbVG1hLiU9hvPci9BJhcsYX+xfRzA2am9X0hzm&#x0A;uxQj5VvI5NnjqXf9aYsxTWJS62/HWgxbABu72CZNjBUbKSFUdtokjczUNrDsNGaV&#x0A;gV3MLboy6ayeMVYxlZ8+HZFu8H5KuZ+DWKfkdtB2zaGLsBK7R+B23fqVuZ3l8eGz&#x0A;oyyGMQTOxiPNHJFTV/Z2QLzvAVyiHvvLJohS0xhiqG5/OqgSf5X2FDrEdpGIFOLY&#x0A;XDJO8Y9aeCfTJQR77RXMXLThXA6cgKvUDnSBrK6mPFbAPzJnTP/4ij9xhterpjN8&#x0A;EQIDAQAB&#x0A;-----END PUBLIC KEY-----&#x0A;</Certificate>
+    <Digest Value>ZV25yM2JdHyDbn1zSNFTGOsxsOCfdTh9NCS2cWR9wL5mbSFKJYg8J7Sqgo+MO/1i&#x0A;Pv5QnWaFPhPnRhRHw24p8woZPbI4WLKllpV1tEOf5vqjC+E36DNaCkw/OcKc6RAW&#x0A;YW4L45E5RrYVsnPzDRkczy65HJkYLt9dLSB50TXdkW9+3VeVlU86Rjd9MwoSK+iT&#x0A;wtQTDZTIsR5tcrmrtwgN2qwK2W65+Ej+A4zJ3qn/0DSYIn7KJi6bmbOD4/Wylync&#x0A;ihyjZ/e7MnutCn6QvI0q0GbyqnMJTxP5JzKJ0ZoedNDo4FNmNoB1WAVsB3FMruQl&#x0A;TMPE7kgiu8qIIWQrvaLxwg==&#x0A;</Digest Value>
+</signature>
+<Merchant Merchant_id="-521141999023077663">
+    <Merchant Name>Lyons-Riley</Merchant Name>
+    <Type>LLC</Type>
+</Merchant>

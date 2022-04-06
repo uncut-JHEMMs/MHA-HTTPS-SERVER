@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<signature key_info="RSA">
+    <Certificate>-----BEGIN PUBLIC KEY-----&#x0A;MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyXkkvd1ozSIAyPr3WFdL&#x0A;O2q+Hz+WRTiOqjR2D+fFTpWVEhhbVG1hLiU9hvPci9BJhcsYX+xfRzA2am9X0hzm&#x0A;uxQj5VvI5NnjqXf9aYsxTWJS62/HWgxbABu72CZNjBUbKSFUdtokjczUNrDsNGaV&#x0A;gV3MLboy6ayeMVYxlZ8+HZFu8H5KuZ+DWKfkdtB2zaGLsBK7R+B23fqVuZ3l8eGz&#x0A;oyyGMQTOxiPNHJFTV/Z2QLzvAVyiHvvLJohS0xhiqG5/OqgSf5X2FDrEdpGIFOLY&#x0A;XDJO8Y9aeCfTJQR77RXMXLThXA6cgKvUDnSBrK6mPFbAPzJnTP/4ij9xhterpjN8&#x0A;EQIDAQAB&#x0A;-----END PUBLIC KEY-----&#x0A;</Certificate>
+    <Digest Value>buSjiSfI52lsow+enwRF1jXm/VIoMyCtIAfVws5Qf9z57nlsQQPTTFsOV2dOtKwV&#x0A;f7I4effL4KGevU/a2fB5tZ+YPJYhHOCrsN7y2iSqrA0lu+UcqDWCoy08MBdyrsQn&#x0A;RA1Kpl3m263nuIlVANXEIiCLx2gZzXGQhrmMwJTEmFG9cufM7R58iX8/5SdPZNa0&#x0A;9kf37Q4lbYDQC35aMpXyh7BP7urQ7glX7T2ZhmoQ9QpUc6zzmwv+mEQxCtIGGMLd&#x0A;ebAQO8twVuiCHSyMcdRwkKbiU5Hew17zmCAPJzXnCUyYKNxYo6Kd6OyswMRDrpPl&#x0A;HVFbEScYYSUVIbwDpQE+pQ==&#x0A;</Digest Value>
+</signature>
+<Merchant Merchant_id="-245178307025547046">
+    <Merchant Name>Contreras</Merchant Name>
+    <Type>PLC</Type>
+</Merchant>

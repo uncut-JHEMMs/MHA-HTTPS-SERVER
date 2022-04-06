@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<signature key_info="RSA">
+    <Certificate>-----BEGIN PUBLIC KEY-----&#x0A;MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyXkkvd1ozSIAyPr3WFdL&#x0A;O2q+Hz+WRTiOqjR2D+fFTpWVEhhbVG1hLiU9hvPci9BJhcsYX+xfRzA2am9X0hzm&#x0A;uxQj5VvI5NnjqXf9aYsxTWJS62/HWgxbABu72CZNjBUbKSFUdtokjczUNrDsNGaV&#x0A;gV3MLboy6ayeMVYxlZ8+HZFu8H5KuZ+DWKfkdtB2zaGLsBK7R+B23fqVuZ3l8eGz&#x0A;oyyGMQTOxiPNHJFTV/Z2QLzvAVyiHvvLJohS0xhiqG5/OqgSf5X2FDrEdpGIFOLY&#x0A;XDJO8Y9aeCfTJQR77RXMXLThXA6cgKvUDnSBrK6mPFbAPzJnTP/4ij9xhterpjN8&#x0A;EQIDAQAB&#x0A;-----END PUBLIC KEY-----&#x0A;</Certificate>
+    <Digest Value>w3FW7dHmra3DB+sxlGSLqKMMN5XGmnSD4tJRPmD4ebpKnkPTcy9UYSIdr3svABh0&#x0A;RGBBTRkBgDPjx3gFimUf9D+f5hKjjcC4vpESlQBPzBlgib7rbX9tDJ6/jrjNIMT7&#x0A;K7C5TuvjW5eSeCOyNlHkbEX4vM4MEN3TekjN/Ojfx7BwmtL71LV7TvDysWp2y7Ub&#x0A;2PWR8L42QuWZ7EOIgszznPn1qd0K+85AxjcpHiVN31eEg8qDZuwL9M6l0nz+Mcjh&#x0A;Un4TYApwtbtcqcco2pdW8xcJkdidSajzcgGDzYBcIG5HRgVVcEoaR93y2rfnxKNv&#x0A;TQPa6/h0Ifs8EhC26/M/EQ==&#x0A;</Digest Value>
+</signature>
+<Merchant Merchant_id="-811651038065591449">
+    <Merchant Name>Jones</Merchant Name>
+    <Type>andSons</Type>
+</Merchant>

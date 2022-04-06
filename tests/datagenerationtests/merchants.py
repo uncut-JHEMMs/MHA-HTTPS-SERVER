@@ -4,7 +4,7 @@ import csv
 
 url = "https://localhost:8443/addMerchant"
 
-with open("../../data_generation/merchants.csv" , 'r' , newline = '') as csvfile:
+with open("../../data_generation/final_data/merchants_table.csv" , 'r' , newline = '') as csvfile:
     reader = csv.reader(csvfile)
     iterations = 0
     for row in reader:

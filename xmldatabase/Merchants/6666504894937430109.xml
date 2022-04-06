@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<signature key_info="RSA">
+    <Certificate>-----BEGIN PUBLIC KEY-----&#x0A;MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyXkkvd1ozSIAyPr3WFdL&#x0A;O2q+Hz+WRTiOqjR2D+fFTpWVEhhbVG1hLiU9hvPci9BJhcsYX+xfRzA2am9X0hzm&#x0A;uxQj5VvI5NnjqXf9aYsxTWJS62/HWgxbABu72CZNjBUbKSFUdtokjczUNrDsNGaV&#x0A;gV3MLboy6ayeMVYxlZ8+HZFu8H5KuZ+DWKfkdtB2zaGLsBK7R+B23fqVuZ3l8eGz&#x0A;oyyGMQTOxiPNHJFTV/Z2QLzvAVyiHvvLJohS0xhiqG5/OqgSf5X2FDrEdpGIFOLY&#x0A;XDJO8Y9aeCfTJQR77RXMXLThXA6cgKvUDnSBrK6mPFbAPzJnTP/4ij9xhterpjN8&#x0A;EQIDAQAB&#x0A;-----END PUBLIC KEY-----&#x0A;</Certificate>
+    <Digest Value>X/uz1XvKwg66QFnQylWMGYOpoRYoTV+PmQRBdA4FYQ1rO61c02SAJPGeYR/jWPoH&#x0A;MJAt7970qWC3QQ79ITnNSWgXDC3tuSJQZuNG8uIZ7nL0CONxQfz0cCguQAcHX1Zo&#x0A;rzm3PtS/6r7ab/TtVmwjFLAIxn9EH6QIurG3BAa48E1V4LjP4q2SHFnIAF6ePxcx&#x0A;k7b8nJIC8kFVNpjhwOqXTi0Of514H1VLPbUAuWwPFYkHFFcJRLnUJd9SjjbwTVQb&#x0A;uBNsALb5g65TMdZPNIFlkucoPskiAfvbzXWZMkT+sRIz5MPrJnAbPh4If988TREB&#x0A;jHeCWbgqTlD3vuEMW7FGfg==&#x0A;</Digest Value>
+</signature>
+<Merchant Merchant_id="6666504894937430109">
+    <Merchant Name>Garcia</Merchant Name>
+    <Type>Inc</Type>
+</Merchant>

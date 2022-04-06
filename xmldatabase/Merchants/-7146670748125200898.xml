@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<signature key_info="RSA">
+    <Certificate>-----BEGIN PUBLIC KEY-----&#x0A;MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyXkkvd1ozSIAyPr3WFdL&#x0A;O2q+Hz+WRTiOqjR2D+fFTpWVEhhbVG1hLiU9hvPci9BJhcsYX+xfRzA2am9X0hzm&#x0A;uxQj5VvI5NnjqXf9aYsxTWJS62/HWgxbABu72CZNjBUbKSFUdtokjczUNrDsNGaV&#x0A;gV3MLboy6ayeMVYxlZ8+HZFu8H5KuZ+DWKfkdtB2zaGLsBK7R+B23fqVuZ3l8eGz&#x0A;oyyGMQTOxiPNHJFTV/Z2QLzvAVyiHvvLJohS0xhiqG5/OqgSf5X2FDrEdpGIFOLY&#x0A;XDJO8Y9aeCfTJQR77RXMXLThXA6cgKvUDnSBrK6mPFbAPzJnTP/4ij9xhterpjN8&#x0A;EQIDAQAB&#x0A;-----END PUBLIC KEY-----&#x0A;</Certificate>
+    <Digest Value>pdzpgDgihkwX2x6SFgbPKRV5u+hpCH61eJv8XGBf7LC+bv7kqvowHKozO44PdM3T&#x0A;WhHcy1ej17aejc2vN1AuVkSqplIIuzsh65uDHOkYvAMhnZUlG3uiKtcgsO1fZJef&#x0A;M4AstnquY+Gj8GDq6/bogxhmgucr8zf8UH74j3X6XBIQ+LvY/twG1k2ceUB99j56&#x0A;+Y+GKIy1VLZFNDUJmZS9SnH/UnGG9IPegEop9r8HNjkfkHDuI99M5bELuY3Bqi//&#x0A;1TzFl2ccMyPalZf0428fG98uH0gP1oHw7lpPVx8y2DFZ4nf49rnaGFrcEdtOx4O2&#x0A;XQBHtsl8d2+i2KVlOQy2rA==&#x0A;</Digest Value>
+</signature>
+<Merchant Merchant_id="-7146670748125200898">
+    <Merchant Name>Mitchell-Williams</Merchant Name>
+    <Type>Group</Type>
+</Merchant>

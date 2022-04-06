@@ -35,10 +35,14 @@ class Signer
             
             publicKey = readFileIntoString(pathPublic);
 
-            std::cout<< privateKey << std::endl;
-            std::cout << publicKey << std::endl;
+  //          std::cout<< privateKey << std::endl;
+//            std::cout << publicKey << std::endl;
         }
-
+	
+	std::string get_certificate()
+	{
+		return this->publicKey;
+	}
         RSA* createPrivateRSA(std::string key) 
         {
             RSA *rsa = NULL;

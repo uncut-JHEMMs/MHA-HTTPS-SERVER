@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<signature key_info="RSA">
+    <Certificate>-----BEGIN PUBLIC KEY-----&#x0A;MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyXkkvd1ozSIAyPr3WFdL&#x0A;O2q+Hz+WRTiOqjR2D+fFTpWVEhhbVG1hLiU9hvPci9BJhcsYX+xfRzA2am9X0hzm&#x0A;uxQj5VvI5NnjqXf9aYsxTWJS62/HWgxbABu72CZNjBUbKSFUdtokjczUNrDsNGaV&#x0A;gV3MLboy6ayeMVYxlZ8+HZFu8H5KuZ+DWKfkdtB2zaGLsBK7R+B23fqVuZ3l8eGz&#x0A;oyyGMQTOxiPNHJFTV/Z2QLzvAVyiHvvLJohS0xhiqG5/OqgSf5X2FDrEdpGIFOLY&#x0A;XDJO8Y9aeCfTJQR77RXMXLThXA6cgKvUDnSBrK6mPFbAPzJnTP/4ij9xhterpjN8&#x0A;EQIDAQAB&#x0A;-----END PUBLIC KEY-----&#x0A;</Certificate>
+    <Digest Value>QhEGzZGi6EwT8a1k884suG8v+Ds2zBFE+GeVL2Rlf3+mzxeCtVLsEUZu/VDupqRT&#x0A;+MAATyDthoWMtyF3+ditxvjJ1peaO5O5BeCfZa71gmvOASx4siMhpjXiOUzEEuvp&#x0A;bJ7lRo4UuQ6Y4bvon3rfRhNy+zJXxpXfhgKltwhoMo8mx5llLmke+V5PpG/El3FJ&#x0A;ZWTlbyuWF7kUIN08B/TSlHB3wTaGUONgVH21Q/UIA36Vot2ppzHSnTjV92EMcDkA&#x0A;zmSaCNt8APkDzEZAaWP/RexeHrP8iXKfrzancCZEqB0wa8MOfW0VZyauXbSCm3IS&#x0A;B6NQNpXlAiGSsTG0ZtyiEA==&#x0A;</Digest Value>
+</signature>
+<Merchant Merchant_id="6515854639642454768">
+    <Merchant Name>Clark-Lee</Merchant Name>
+    <Type>PLC</Type>
+</Merchant>

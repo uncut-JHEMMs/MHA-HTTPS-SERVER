@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<signature key_info="RSA">
+    <Certificate>-----BEGIN PUBLIC KEY-----&#x0A;MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyXkkvd1ozSIAyPr3WFdL&#x0A;O2q+Hz+WRTiOqjR2D+fFTpWVEhhbVG1hLiU9hvPci9BJhcsYX+xfRzA2am9X0hzm&#x0A;uxQj5VvI5NnjqXf9aYsxTWJS62/HWgxbABu72CZNjBUbKSFUdtokjczUNrDsNGaV&#x0A;gV3MLboy6ayeMVYxlZ8+HZFu8H5KuZ+DWKfkdtB2zaGLsBK7R+B23fqVuZ3l8eGz&#x0A;oyyGMQTOxiPNHJFTV/Z2QLzvAVyiHvvLJohS0xhiqG5/OqgSf5X2FDrEdpGIFOLY&#x0A;XDJO8Y9aeCfTJQR77RXMXLThXA6cgKvUDnSBrK6mPFbAPzJnTP/4ij9xhterpjN8&#x0A;EQIDAQAB&#x0A;-----END PUBLIC KEY-----&#x0A;</Certificate>
+    <Digest Value>gsZi+o1J50LO8uPIXMqg9JhIQQFasGF999e6DA8VcW84F5ZgXwEbBtlru4FbvGgB&#x0A;+KvikCX7hPheYNUe36nvu0P2zbuh86OA8AAWv016X0UeEWPSjwmVcBfDEwEWmeEr&#x0A;eHkiVpETcgVmP5ui+ROcZYk0vHq1910Qe9giw3v2EjpsdAWOnqsziavUhJ0lLX35&#x0A;a0TTbZQdo6sO1yLUxDVJRoSn8+vzvIjUHazwNApQKHc8sHCeIUF+2F5zzgnrjYm1&#x0A;/g3UF/sGtXEm98ZBbEk/yQVmOnYlIi9Qb/1GEYq9mkiSyES1ZRncMqsuDA8OSq2q&#x0A;cT/fbuy01g7utLY809Hmkg==&#x0A;</Digest Value>
+</signature>
+<Merchant Merchant_id="6042526206085641250">
+    <Merchant Name>Welch-Thomas</Merchant Name>
+    <Type>Group</Type>
+</Merchant>

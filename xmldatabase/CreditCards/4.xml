@@ -1,5 +1,9 @@
 <?xml version="1.0" ?>
+<signature key_info="RSA">
+    <Certificate>-----BEGIN PUBLIC KEY-----&#x0A;MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyXkkvd1ozSIAyPr3WFdL&#x0A;O2q+Hz+WRTiOqjR2D+fFTpWVEhhbVG1hLiU9hvPci9BJhcsYX+xfRzA2am9X0hzm&#x0A;uxQj5VvI5NnjqXf9aYsxTWJS62/HWgxbABu72CZNjBUbKSFUdtokjczUNrDsNGaV&#x0A;gV3MLboy6ayeMVYxlZ8+HZFu8H5KuZ+DWKfkdtB2zaGLsBK7R+B23fqVuZ3l8eGz&#x0A;oyyGMQTOxiPNHJFTV/Z2QLzvAVyiHvvLJohS0xhiqG5/OqgSf5X2FDrEdpGIFOLY&#x0A;XDJO8Y9aeCfTJQR77RXMXLThXA6cgKvUDnSBrK6mPFbAPzJnTP/4ij9xhterpjN8&#x0A;EQIDAQAB&#x0A;-----END PUBLIC KEY-----&#x0A;</Certificate>
+    <Digest Value>xULDqYOoWhUxHVFgqbeaSbairww+T0QqJpCVoF4hOotjH7/oZuR/Hoy/U1/Wx19h&#x0A;LDCBspCuvM74gfgB+IVzua5jBeV14OMXjtLAKao8+rpbxBmagBLaTP+e2R0+hlf2&#x0A;wyaXdL/Sy1/JZU007s0UDxCrnhwq5tb8BiyKHq69IMsFcrOKeJHzPJbNc1jZgRKc&#x0A;pvZKKsHLcxHS8vK5NssT1koZWZgXMEsf+k5LChBJpChkjcVZccM+NdMBqRfkIIdN&#x0A;EOydlZlnwUoXTTx84qxA1Ug4qq3JWxjefpYs33Vvr+GrTHSiw1LgIgKF+WncbbSL&#x0A;e9lLcCcDzkweue8iDGYZkw==&#x0A;</Digest Value>
+</signature>
 <CreditCard holder_id="4">
-    <Number>4639476929606518</Number>
-    <Type>default</Type>
+    <Number>4483324207435258</Number>
+    <Type>0</Type>
 </CreditCard>

@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<signature key_info="RSA">
+    <Certificate>-----BEGIN PUBLIC KEY-----&#x0A;MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyXkkvd1ozSIAyPr3WFdL&#x0A;O2q+Hz+WRTiOqjR2D+fFTpWVEhhbVG1hLiU9hvPci9BJhcsYX+xfRzA2am9X0hzm&#x0A;uxQj5VvI5NnjqXf9aYsxTWJS62/HWgxbABu72CZNjBUbKSFUdtokjczUNrDsNGaV&#x0A;gV3MLboy6ayeMVYxlZ8+HZFu8H5KuZ+DWKfkdtB2zaGLsBK7R+B23fqVuZ3l8eGz&#x0A;oyyGMQTOxiPNHJFTV/Z2QLzvAVyiHvvLJohS0xhiqG5/OqgSf5X2FDrEdpGIFOLY&#x0A;XDJO8Y9aeCfTJQR77RXMXLThXA6cgKvUDnSBrK6mPFbAPzJnTP/4ij9xhterpjN8&#x0A;EQIDAQAB&#x0A;-----END PUBLIC KEY-----&#x0A;</Certificate>
+    <Digest Value>LaiNSd4qxQ9T3gzSxu+xZlR0qTPUlMEtnczssTe1WOV/ZJpgtFvc7YX5yxRQD0LL&#x0A;M9qsu3qmxOaRh348ha+n9am05jM6lVJ7CTIZ0pqGAQFvQ+1AlGkH5J8jNJYMN7Pj&#x0A;W0nCzix4KOVPYYVgnS+rlecy3DmFC+RutuJTxEtXcV0xpwsee8f7rEBOGxQDV5wj&#x0A;hNfbWQsMe3gd+pcGCeXG3V5N+BdxXlo26kDztnbrDqkJf51Kr4ZpeyEQ9KXoQsaF&#x0A;Eddedy/inL891VS9wIGlCyv8Rm+Y5y5yAMhCqIH4sTG911Ap5pKsgFNVeMgEowZr&#x0A;3ioYFecORrgGSTLZZt6MRw==&#x0A;</Digest Value>
+</signature>
+<Merchant Merchant_id="-34551508091458520">
+    <Merchant Name>Wood</Merchant Name>
+    <Type>PLC</Type>
+</Merchant>
