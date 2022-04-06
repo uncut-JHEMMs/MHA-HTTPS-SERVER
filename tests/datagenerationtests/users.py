@@ -5,7 +5,7 @@ url = "https://localhost:8443/addUser"
 
 uid = {"user_name": "Huzaifa" , "id":"12"}
 
-with open("../../data_generation/data.csv" , 'r' , newline = '') as csvfile:
+with open("../../../users_table.csv" , 'r' , newline = '') as csvfile:
     reader = csv.reader(csvfile)
     iterations = 0
     for row in reader:
