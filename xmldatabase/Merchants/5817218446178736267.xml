@@ -1,9 +1,0 @@
-<?xml version="1.0" ?>
-<signature key_info="RSA">
-    <Certificate>-----BEGIN PUBLIC KEY-----&#x0A;MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyXkkvd1ozSIAyPr3WFdL&#x0A;O2q+Hz+WRTiOqjR2D+fFTpWVEhhbVG1hLiU9hvPci9BJhcsYX+xfRzA2am9X0hzm&#x0A;uxQj5VvI5NnjqXf9aYsxTWJS62/HWgxbABu72CZNjBUbKSFUdtokjczUNrDsNGaV&#x0A;gV3MLboy6ayeMVYxlZ8+HZFu8H5KuZ+DWKfkdtB2zaGLsBK7R+B23fqVuZ3l8eGz&#x0A;oyyGMQTOxiPNHJFTV/Z2QLzvAVyiHvvLJohS0xhiqG5/OqgSf5X2FDrEdpGIFOLY&#x0A;XDJO8Y9aeCfTJQR77RXMXLThXA6cgKvUDnSBrK6mPFbAPzJnTP/4ij9xhterpjN8&#x0A;EQIDAQAB&#x0A;-----END PUBLIC KEY-----&#x0A;</Certificate>
-    <Digest Value>tgnXZgmysunarwV0GDZYjBP4Bk+9kL4FC6De6Bbrgrfx6HfmNmQFjdifKiv2c4CM&#x0A;URQBLv0kgdiQ+ffZ+IHcrOEvFaFn3LQxUjqYEnvJfno4m5+rN5ctd/VFWrHx2cF/&#x0A;gg5wkaD3L5hKfbJw97kSF2QHWvgAuQL1VAF7evU3sKssFJ6aljKQB9S+w/j/5WWf&#x0A;79NtF/oi3MtwmxONJvpuXTPPnIBV+7GgvmBa0Svf+91a4cFrOOSJq4M54DhCwZfj&#x0A;nDNGdDBgml1d4JVIc/LX484XUoZ1DHJ4aCwZCTyWfnm5KcUbrgh68jns2MhHFB72&#x0A;knhhMYjT2L1kQAr2EeXr/w==&#x0A;</Digest Value>
-</signature>
-<Merchant Merchant_id="5817218446178736267">
-    <Merchant Name>Smith</Merchant Name>
-    <Type>Inc</Type>
-</Merchant>

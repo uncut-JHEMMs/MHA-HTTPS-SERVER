@@ -1,9 +1,0 @@
-<?xml version="1.0" ?>
-<signature key_info="RSA">
-    <Certificate>-----BEGIN PUBLIC KEY-----&#x0A;MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyXkkvd1ozSIAyPr3WFdL&#x0A;O2q+Hz+WRTiOqjR2D+fFTpWVEhhbVG1hLiU9hvPci9BJhcsYX+xfRzA2am9X0hzm&#x0A;uxQj5VvI5NnjqXf9aYsxTWJS62/HWgxbABu72CZNjBUbKSFUdtokjczUNrDsNGaV&#x0A;gV3MLboy6ayeMVYxlZ8+HZFu8H5KuZ+DWKfkdtB2zaGLsBK7R+B23fqVuZ3l8eGz&#x0A;oyyGMQTOxiPNHJFTV/Z2QLzvAVyiHvvLJohS0xhiqG5/OqgSf5X2FDrEdpGIFOLY&#x0A;XDJO8Y9aeCfTJQR77RXMXLThXA6cgKvUDnSBrK6mPFbAPzJnTP/4ij9xhterpjN8&#x0A;EQIDAQAB&#x0A;-----END PUBLIC KEY-----&#x0A;</Certificate>
-    <Digest Value>bb2t5KWJOrLwEaRdBoVBC8a3RoLDDzRQY5ZD5+5h3QhxQYJvUWZs6rHCLMdEVdQ0&#x0A;QzrtIbY6l4gnsYr9Sn+p22u014/7/xI7ZQrmu6XPDm7rO/2DLoIb08Rj+O/sChcr&#x0A;uY3eirM3N3AgJUKl5XNtojbOAkGeeNyXwt3ci7DkfOBxq+bBf2drKPJ5S7kaTGwr&#x0A;VOJ2HPDj+ZgQX2sNcdGuspaNTtuyvxFrjtC0uyzfOrOadsmlKW1Ybg2WiwEASk+o&#x0A;WZ1EM5Jo7H1Sjs2X8aJe9HbAu5Kv2l4vSdfZs4nI+Dj1ZhLEmLxVkAsjqc6LMq0A&#x0A;EVDDwSHE2P8cGVkVfPUbww==&#x0A;</Digest Value>
-</signature>
-<Merchant Merchant_id="6661973303171003879">
-    <Merchant Name>Foster</Merchant Name>
-    <Type>LLC</Type>
-</Merchant>

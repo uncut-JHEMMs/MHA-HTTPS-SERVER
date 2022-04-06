@@ -1,9 +1,0 @@
-<?xml version="1.0" ?>
-<signature key_info="RSA">
-    <Certificate>-----BEGIN PUBLIC KEY-----&#x0A;MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyXkkvd1ozSIAyPr3WFdL&#x0A;O2q+Hz+WRTiOqjR2D+fFTpWVEhhbVG1hLiU9hvPci9BJhcsYX+xfRzA2am9X0hzm&#x0A;uxQj5VvI5NnjqXf9aYsxTWJS62/HWgxbABu72CZNjBUbKSFUdtokjczUNrDsNGaV&#x0A;gV3MLboy6ayeMVYxlZ8+HZFu8H5KuZ+DWKfkdtB2zaGLsBK7R+B23fqVuZ3l8eGz&#x0A;oyyGMQTOxiPNHJFTV/Z2QLzvAVyiHvvLJohS0xhiqG5/OqgSf5X2FDrEdpGIFOLY&#x0A;XDJO8Y9aeCfTJQR77RXMXLThXA6cgKvUDnSBrK6mPFbAPzJnTP/4ij9xhterpjN8&#x0A;EQIDAQAB&#x0A;-----END PUBLIC KEY-----&#x0A;</Certificate>
-    <Digest Value>hWuGNIs4g9cuEZTCUBlGBaZW4kj6e3IyY85WfEDtvgFN5j1+kMLHkZJ0hPlT9pyh&#x0A;0G9XK5iwTQ0EJJTdxjDUN+FP4i0x0+FIlHUrRpAlfT8d3VJnYN41sybxI14F/yaB&#x0A;LCQx7Rpa2p6ayoGwvUiDoFFW2zMsUW3l7pNHEAEcXognKUHPd7vMmB5Xj/t5bGcf&#x0A;zJp5QQbzcGtjT+Jhq1IS4f0qHqlh4n4UHq90EnbOHkMChb5UDqgdBaphbCSL1joG&#x0A;uXAiFW+uC4bPlaaFtyEx1tQxHpig9hASPC6N6iVXbLFfyr6vQRLg9CjcBWu29ziw&#x0A;heSr/puBzLZqXGLf9VA0zA==&#x0A;</Digest Value>
-</signature>
-<Merchant Merchant_id="-5475680618560174533">
-    <Merchant Name>Thomas</Merchant Name>
-    <Type>Ltd</Type>
-</Merchant>

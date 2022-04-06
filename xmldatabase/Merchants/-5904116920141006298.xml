@@ -1,9 +1,0 @@
-<?xml version="1.0" ?>
-<signature key_info="RSA">
-    <Certificate>-----BEGIN PUBLIC KEY-----&#x0A;MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyXkkvd1ozSIAyPr3WFdL&#x0A;O2q+Hz+WRTiOqjR2D+fFTpWVEhhbVG1hLiU9hvPci9BJhcsYX+xfRzA2am9X0hzm&#x0A;uxQj5VvI5NnjqXf9aYsxTWJS62/HWgxbABu72CZNjBUbKSFUdtokjczUNrDsNGaV&#x0A;gV3MLboy6ayeMVYxlZ8+HZFu8H5KuZ+DWKfkdtB2zaGLsBK7R+B23fqVuZ3l8eGz&#x0A;oyyGMQTOxiPNHJFTV/Z2QLzvAVyiHvvLJohS0xhiqG5/OqgSf5X2FDrEdpGIFOLY&#x0A;XDJO8Y9aeCfTJQR77RXMXLThXA6cgKvUDnSBrK6mPFbAPzJnTP/4ij9xhterpjN8&#x0A;EQIDAQAB&#x0A;-----END PUBLIC KEY-----&#x0A;</Certificate>
-    <Digest Value>vYhGIqR4Fz0mevukMiTangGksjBbuuo/ME84ADxDGOhkKoO72ebMlk3vPPSKFQBJ&#x0A;+ms9cuObgmVqaSyr2OgKS+WPPJtvZFSRq9WJEHig67S46GCh6w4hoVGMHAEsUN2w&#x0A;lJvZUf/KA0o2UKsKBrn4VCVTVlR+zGSZcMc89e2q5cQPh0sTjMSOEXErt/7hCotp&#x0A;PBd3sTq1rwYqqDo3XPHl4NQvOXN2J8/xwh5wKEsUHdmhsz4AYCZ7TW/tlrEE2ycZ&#x0A;KToK2EGOtBVdnhUV0QEGSsd5tED+l8MmvYL35XJev0MIpTHrm3IQE4Lm45fpbonX&#x0A;pE7NjJMK0UAhThepIZsg5w==&#x0A;</Digest Value>
-</signature>
-<Merchant Merchant_id="-5904116920141006298">
-    <Merchant Name>Brown</Merchant Name>
-    <Type>Ltd</Type>
-</Merchant>

@@ -1,9 +1,0 @@
-<?xml version="1.0" ?>
-<signature key_info="RSA">
-    <Certificate>-----BEGIN PUBLIC KEY-----&#x0A;MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyXkkvd1ozSIAyPr3WFdL&#x0A;O2q+Hz+WRTiOqjR2D+fFTpWVEhhbVG1hLiU9hvPci9BJhcsYX+xfRzA2am9X0hzm&#x0A;uxQj5VvI5NnjqXf9aYsxTWJS62/HWgxbABu72CZNjBUbKSFUdtokjczUNrDsNGaV&#x0A;gV3MLboy6ayeMVYxlZ8+HZFu8H5KuZ+DWKfkdtB2zaGLsBK7R+B23fqVuZ3l8eGz&#x0A;oyyGMQTOxiPNHJFTV/Z2QLzvAVyiHvvLJohS0xhiqG5/OqgSf5X2FDrEdpGIFOLY&#x0A;XDJO8Y9aeCfTJQR77RXMXLThXA6cgKvUDnSBrK6mPFbAPzJnTP/4ij9xhterpjN8&#x0A;EQIDAQAB&#x0A;-----END PUBLIC KEY-----&#x0A;</Certificate>
-    <Digest Value>NitvIKzUx6nTgeaSgSRILnkqaPcq6r6B6pXY5+qwf5IXV4Yw/DzdxQWps3bNxjMv&#x0A;qOCDQR/GOPQHtBT57BKaUpPF8m8xo2ivoW2FPLyK52VaXqPo346utm98V756WMIN&#x0A;oDfheKTPfYcJVZ/TEMQbiFSflc7oukJ5OYZdvaeC7xM+cV2C+BWQ0PxAG+HEo1Fk&#x0A;bt++j2zSvRBiDveHgqiAgUeft8l/LNnsdVwM16Lw0fDIRTiCv9KnLigRlTrW7u8Q&#x0A;tohQt5/cuegYQ+d6l81teHELGrM9Wg7vfA89AJakC/Tb7d0o9f13No+sjggFTgTx&#x0A;/wdLbafpmUbQFyZZNMLCWw==&#x0A;</Digest Value>
-</signature>
-<Merchant Merchant_id="838425044734233142">
-    <Merchant Name>King</Merchant Name>
-    <Type>Ltd</Type>
-</Merchant>

@@ -1,9 +1,0 @@
-<?xml version="1.0" ?>
-<Signature key_info="RSA">u+jcmrZ3dqDI/urgBBlsVZQm+sc3Zn6DeztMDzd8FYdvOiq6gGSHZIHIEktP9TAZ&#x0A;1Q/jucTPjEjbhXvGJfwVvLvVbn4pYeeGX3CorbjbUc274Dd5Zm8V4j77WUykT9Cp&#x0A;BeAJu+fToY7yKGWU1vXwZ1/Xprn4bRN0LkFSru5Bfd2xkIsd0QLH1GVuow2DjMdc&#x0A;cGxvPANKEJEkW+74/8WSbiceOOL3s0ORP6SMcqBqZJmiqpAIKatDHypmMOCoN0Sp&#x0A;b5hITbC12zFUXhRnPucs6qtTIB6f6jMZlkzQ+XeArgwPZvUgQ6RqufVVBGQ6NHSg&#x0A;kBrT2U3DCS7K7sYIBFUsbg==&#x0A;</Signature>
-<Person id="ssn">
-    <Cutomer uid="2">
-        <First Name>Luis</First Name>
-        <Last Name>Vaughn</Last Name>
-        <Email>LuisVaughn@smoothstack.com</Email>
-    </Cutomer>
-</Person>

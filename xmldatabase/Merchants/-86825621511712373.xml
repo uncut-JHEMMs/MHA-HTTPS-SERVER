@@ -1,9 +1,0 @@
-<?xml version="1.0" ?>
-<signature key_info="RSA">
-    <Certificate>-----BEGIN PUBLIC KEY-----&#x0A;MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyXkkvd1ozSIAyPr3WFdL&#x0A;O2q+Hz+WRTiOqjR2D+fFTpWVEhhbVG1hLiU9hvPci9BJhcsYX+xfRzA2am9X0hzm&#x0A;uxQj5VvI5NnjqXf9aYsxTWJS62/HWgxbABu72CZNjBUbKSFUdtokjczUNrDsNGaV&#x0A;gV3MLboy6ayeMVYxlZ8+HZFu8H5KuZ+DWKfkdtB2zaGLsBK7R+B23fqVuZ3l8eGz&#x0A;oyyGMQTOxiPNHJFTV/Z2QLzvAVyiHvvLJohS0xhiqG5/OqgSf5X2FDrEdpGIFOLY&#x0A;XDJO8Y9aeCfTJQR77RXMXLThXA6cgKvUDnSBrK6mPFbAPzJnTP/4ij9xhterpjN8&#x0A;EQIDAQAB&#x0A;-----END PUBLIC KEY-----&#x0A;</Certificate>
-    <Digest Value>WrBdr0zwmgDne/g8k9w5TrC1B1eoT4CwRMiATPNTvibyBcg6uW1rExYxk5BISfYT&#x0A;90QdJ1etad+qkdQ0jWnshopNKcmMoG1Ol1Jjin3n4eKFFtuXQjZ/eBiXsgwplhc0&#x0A;y9d9QYhLBY113n8HVsDuPOrClJPSv+JRlI1YxlCHZuwZ6rw5jDzIa0OrmxkWPQhT&#x0A;/YHU0KXgRrDG4uy/sPzXfKbWbFVjY2UZ3NwmRvovVmtuQEQwyvV+YkUzxJQmsHTU&#x0A;xdWrm2wizvRLwrDVwMac5jg6O9ZEwiGnZBC1kXlbjF2Q6AwNali55t65ZS+7WQDA&#x0A;dDC1JDcsu8rSdjixog6ERw==&#x0A;</Digest Value>
-</signature>
-<Merchant Merchant_id="-86825621511712373">
-    <Merchant Name>Perkins</Merchant Name>
-    <Type>Ltd</Type>
-</Merchant>

@@ -1,9 +1,0 @@
-<?xml version="1.0" ?>
-<signature key_info="RSA">
-    <Certificate>-----BEGIN PUBLIC KEY-----&#x0A;MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyXkkvd1ozSIAyPr3WFdL&#x0A;O2q+Hz+WRTiOqjR2D+fFTpWVEhhbVG1hLiU9hvPci9BJhcsYX+xfRzA2am9X0hzm&#x0A;uxQj5VvI5NnjqXf9aYsxTWJS62/HWgxbABu72CZNjBUbKSFUdtokjczUNrDsNGaV&#x0A;gV3MLboy6ayeMVYxlZ8+HZFu8H5KuZ+DWKfkdtB2zaGLsBK7R+B23fqVuZ3l8eGz&#x0A;oyyGMQTOxiPNHJFTV/Z2QLzvAVyiHvvLJohS0xhiqG5/OqgSf5X2FDrEdpGIFOLY&#x0A;XDJO8Y9aeCfTJQR77RXMXLThXA6cgKvUDnSBrK6mPFbAPzJnTP/4ij9xhterpjN8&#x0A;EQIDAQAB&#x0A;-----END PUBLIC KEY-----&#x0A;</Certificate>
-    <Digest Value>hm72mtEjIDObjsTV5P214QyDTZt7oi81wXMe6tW9VY7G6TjgW7Nip7HAdORINzX1&#x0A;jOoo11qH0loyy+9GRXxYVVMlXxb6OvMp0z4B19/g94+334XHmaZi7GrSh2BFa/6N&#x0A;xehlRpsU8jNEj0vCHwKqkY3XxzNF6ThNaVuu1IXAKeNVWgR+bCT7/LBm4ummF/k5&#x0A;kyJAsWxQwZpRIOSvtqIuDdcmKqS9/2aQJKpG0kN4J+b9UdwLma6aaFDIqAhUza+U&#x0A;I/XEOm/V5oBwXh/NA12z3EWdAhp2H8k9DOOKRHLNMpEktt3/5JKY4XoKZGinpzTx&#x0A;RmgzoBN/2boKEUrwX/6O0w==&#x0A;</Digest Value>
-</signature>
-<Merchant Merchant_id="8080934608468946743">
-    <Merchant Name>Williams</Merchant Name>
-    <Type>LLC</Type>
-</Merchant>

@@ -1,9 +1,0 @@
-<?xml version="1.0" ?>
-<signature key_info="RSA">
-    <Certificate>-----BEGIN PUBLIC KEY-----&#x0A;MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyXkkvd1ozSIAyPr3WFdL&#x0A;O2q+Hz+WRTiOqjR2D+fFTpWVEhhbVG1hLiU9hvPci9BJhcsYX+xfRzA2am9X0hzm&#x0A;uxQj5VvI5NnjqXf9aYsxTWJS62/HWgxbABu72CZNjBUbKSFUdtokjczUNrDsNGaV&#x0A;gV3MLboy6ayeMVYxlZ8+HZFu8H5KuZ+DWKfkdtB2zaGLsBK7R+B23fqVuZ3l8eGz&#x0A;oyyGMQTOxiPNHJFTV/Z2QLzvAVyiHvvLJohS0xhiqG5/OqgSf5X2FDrEdpGIFOLY&#x0A;XDJO8Y9aeCfTJQR77RXMXLThXA6cgKvUDnSBrK6mPFbAPzJnTP/4ij9xhterpjN8&#x0A;EQIDAQAB&#x0A;-----END PUBLIC KEY-----&#x0A;</Certificate>
-    <Digest Value>F7pA+yIgtqdC1XSO7ybtB48tKZmJoG0mWuEjb8mU+aS+1daDeYXVNU6otXDZgzv3&#x0A;l6PVPbTh6cqHuayRAVhyOrw6+gH1MB5OyhxtSmicYGosipOdxdqjHuc/xZGsG5jQ&#x0A;bU12zEj56uc8+oHwOC5cp89SOl7nYu48+Qn4bPgM50QL3uDFe85rcMAXyIv3pOq8&#x0A;35Q8tI0a3T3C6lNmi/0tFIgOHOEOpb/r+M6zOW6kuuWFazosPk6QBE7A7oReOAfA&#x0A;1tsfVkajd0PjMUM/Bgyz3pwYcFfSXSn5JOu9Vw94zprLM+FZVTkbApLECROKcUA+&#x0A;RzrcC1R4hf9Iaac2Hvrp3A==&#x0A;</Digest Value>
-</signature>
-<Merchant Merchant_id="-3345936507911876459">
-    <Merchant Name>Bird</Merchant Name>
-    <Type>PLC</Type>
-</Merchant>

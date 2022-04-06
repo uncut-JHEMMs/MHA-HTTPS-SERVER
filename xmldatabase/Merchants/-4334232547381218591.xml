@@ -1,9 +1,0 @@
-<?xml version="1.0" ?>
-<signature key_info="RSA">
-    <Certificate>-----BEGIN PUBLIC KEY-----&#x0A;MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyXkkvd1ozSIAyPr3WFdL&#x0A;O2q+Hz+WRTiOqjR2D+fFTpWVEhhbVG1hLiU9hvPci9BJhcsYX+xfRzA2am9X0hzm&#x0A;uxQj5VvI5NnjqXf9aYsxTWJS62/HWgxbABu72CZNjBUbKSFUdtokjczUNrDsNGaV&#x0A;gV3MLboy6ayeMVYxlZ8+HZFu8H5KuZ+DWKfkdtB2zaGLsBK7R+B23fqVuZ3l8eGz&#x0A;oyyGMQTOxiPNHJFTV/Z2QLzvAVyiHvvLJohS0xhiqG5/OqgSf5X2FDrEdpGIFOLY&#x0A;XDJO8Y9aeCfTJQR77RXMXLThXA6cgKvUDnSBrK6mPFbAPzJnTP/4ij9xhterpjN8&#x0A;EQIDAQAB&#x0A;-----END PUBLIC KEY-----&#x0A;</Certificate>
-    <Digest Value>UXnav7ItNtPUTyens6ZYOfegx4rBdu5pFsWsKelAzEtimkk4/AW4K3CwgVQ+SYs5&#x0A;6tyIf0lt0pJ79fDVFr41vQ3JcOxumEV60ZWUIkYPBUPo3IhweT70abAoBJTWHiaw&#x0A;txG1JvQ+WwJmnBcWIK7G8ZUyUsPsHK+wIrzGTiwUrQGAisdCi8s0OpqE+FE1OCkU&#x0A;VJvdCXbA1pXBvwzNpOlSrYUXxCs+pt6iTDsUYD+q09TzjAk3zh5THhaKMUj+t1Hx&#x0A;Zaxy0lCKkrkDjVK1JGm0nKtULQ6s4SOCfBCeLtiqlpwA1S5PXa7WrskCwT7wab/c&#x0A;vK6IwFeah+pOh9f+Pp4BMQ==&#x0A;</Digest Value>
-</signature>
-<Merchant Merchant_id="-4334232547381218591">
-    <Merchant Name>Johnson-Riley</Merchant Name>
-    <Type>LLC</Type>
-</Merchant>

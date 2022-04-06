@@ -1,9 +1,0 @@
-<?xml version="1.0" ?>
-<signature key_info="RSA">
-    <Certificate>-----BEGIN PUBLIC KEY-----&#x0A;MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyXkkvd1ozSIAyPr3WFdL&#x0A;O2q+Hz+WRTiOqjR2D+fFTpWVEhhbVG1hLiU9hvPci9BJhcsYX+xfRzA2am9X0hzm&#x0A;uxQj5VvI5NnjqXf9aYsxTWJS62/HWgxbABu72CZNjBUbKSFUdtokjczUNrDsNGaV&#x0A;gV3MLboy6ayeMVYxlZ8+HZFu8H5KuZ+DWKfkdtB2zaGLsBK7R+B23fqVuZ3l8eGz&#x0A;oyyGMQTOxiPNHJFTV/Z2QLzvAVyiHvvLJohS0xhiqG5/OqgSf5X2FDrEdpGIFOLY&#x0A;XDJO8Y9aeCfTJQR77RXMXLThXA6cgKvUDnSBrK6mPFbAPzJnTP/4ij9xhterpjN8&#x0A;EQIDAQAB&#x0A;-----END PUBLIC KEY-----&#x0A;</Certificate>
-    <Digest Value>Pem2ECceETqhjlrxKZ+j3GVzmVssdFDy80ii+UVa3e9yDi16RVPxlO8z2x8a8JBx&#x0A;FULfI8H6dF3rjxJ7sTAAGqhNnLZ0hdq6Ez0eU8hQ5OKl1VcVx4WAXPtaVmaT8Ciw&#x0A;k2upjbtOis7JwdnI70JczJuUMDaGttIRE2oKntqz5MnjL7KJzzE+yVE6nTcjhyno&#x0A;iK/g1Yp1ckcPtF8CSrebOzoh0fM8ff9zBW6PjZjVY67VTamrjydt9morN/L3CZ8f&#x0A;+88sGX6lINM97HTNEgsUGNxb5fm8WypV1lgCJJxcHQ9m+alE9eqOYQmQgt2P0H4/&#x0A;CgcsFFpMaAhrQfxYtKs2vg==&#x0A;</Digest Value>
-</signature>
-<Merchant Merchant_id="4055257078481058705">
-    <Merchant Name>Gamble-Lopez</Merchant Name>
-    <Type>LLC</Type>
-</Merchant>

@@ -1,9 +1,0 @@
-<?xml version="1.0" ?>
-<signature key_info="RSA">
-    <Certificate>-----BEGIN PUBLIC KEY-----&#x0A;MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyXkkvd1ozSIAyPr3WFdL&#x0A;O2q+Hz+WRTiOqjR2D+fFTpWVEhhbVG1hLiU9hvPci9BJhcsYX+xfRzA2am9X0hzm&#x0A;uxQj5VvI5NnjqXf9aYsxTWJS62/HWgxbABu72CZNjBUbKSFUdtokjczUNrDsNGaV&#x0A;gV3MLboy6ayeMVYxlZ8+HZFu8H5KuZ+DWKfkdtB2zaGLsBK7R+B23fqVuZ3l8eGz&#x0A;oyyGMQTOxiPNHJFTV/Z2QLzvAVyiHvvLJohS0xhiqG5/OqgSf5X2FDrEdpGIFOLY&#x0A;XDJO8Y9aeCfTJQR77RXMXLThXA6cgKvUDnSBrK6mPFbAPzJnTP/4ij9xhterpjN8&#x0A;EQIDAQAB&#x0A;-----END PUBLIC KEY-----&#x0A;</Certificate>
-    <Digest Value>J/FfsuMVZXkXd1F26TVpcLem/W+s7IQfl8yXbp1pyW6RaLqFqmNRgM+96jU22iAQ&#x0A;yO6hZy3J9rkhcZ6BOlCJZgXKMqH/dqtE61zUSDYU1SBt+MM3Shc18Xq+7fX/2GQX&#x0A;Hg9XDDDQTW6uKP18yE73RM1O5c33uovcv0AZJPM2oyZ/K35vFjwE9fK946gOGO1v&#x0A;O4VwG2p58h6HMYJasqE/GZMptm1Xhv/ks7yOdNK0XdFtjkn7NseNYHO5kz30T2M2&#x0A;l3HjBJouu1KctDTUv0MM6ImU7u+sWCL2G5sUY3G4ttlkyexEsRooJt+IyMAvnzwI&#x0A;yQC7Il3HIrfWdxf4FN5gdw==&#x0A;</Digest Value>
-</signature>
-<Merchant Merchant_id="-8978688709093014088">
-    <Merchant Name>Simpson</Merchant Name>
-    <Type>Ltd</Type>
-</Merchant>

@@ -1,9 +1,0 @@
-<?xml version="1.0" ?>
-<signature key_info="RSA">
-    <Certificate>-----BEGIN PUBLIC KEY-----&#x0A;MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyXkkvd1ozSIAyPr3WFdL&#x0A;O2q+Hz+WRTiOqjR2D+fFTpWVEhhbVG1hLiU9hvPci9BJhcsYX+xfRzA2am9X0hzm&#x0A;uxQj5VvI5NnjqXf9aYsxTWJS62/HWgxbABu72CZNjBUbKSFUdtokjczUNrDsNGaV&#x0A;gV3MLboy6ayeMVYxlZ8+HZFu8H5KuZ+DWKfkdtB2zaGLsBK7R+B23fqVuZ3l8eGz&#x0A;oyyGMQTOxiPNHJFTV/Z2QLzvAVyiHvvLJohS0xhiqG5/OqgSf5X2FDrEdpGIFOLY&#x0A;XDJO8Y9aeCfTJQR77RXMXLThXA6cgKvUDnSBrK6mPFbAPzJnTP/4ij9xhterpjN8&#x0A;EQIDAQAB&#x0A;-----END PUBLIC KEY-----&#x0A;</Certificate>
-    <Digest Value>Fa05ct5xmeZbV/auKHzFvk1KXkE0N2VrdyIYdgBPYiWS2yTRI4+zvXf2qW3aHhTi&#x0A;nrTDXFfDRx8olqdBG7feZH2xeCCxRpfmTFt5MAmqEYft5Q2yw4uxA0ed5LDlPitH&#x0A;y/ocX2BhKcmOcrAFNPaXxs4v6wE4w7MlYF8o+6qbZzcDKdmMVdSDsNxQHbbz/buP&#x0A;brBxFFmhBpx0bYjV8wCxzsp8w994rQc+rxD3r2eJMS5mMuNYj3W1EKOmGmIgphG5&#x0A;1ZiRHEoJSaxZqSttFg4BCcHMevXe/W+j0iVjq7kptZFCO3V6JHBPSeaVmoqVLJ8p&#x0A;MAUrkW28iqX15kzhJn+vcA==&#x0A;</Digest Value>
-</signature>
-<Merchant Merchant_id="-4282466774399734331">
-    <Merchant Name>Mccarty</Merchant Name>
-    <Type>Inc</Type>
-</Merchant>

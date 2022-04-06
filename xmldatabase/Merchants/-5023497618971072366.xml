@@ -1,9 +1,0 @@
-<?xml version="1.0" ?>
-<signature key_info="RSA">
-    <Certificate>-----BEGIN PUBLIC KEY-----&#x0A;MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyXkkvd1ozSIAyPr3WFdL&#x0A;O2q+Hz+WRTiOqjR2D+fFTpWVEhhbVG1hLiU9hvPci9BJhcsYX+xfRzA2am9X0hzm&#x0A;uxQj5VvI5NnjqXf9aYsxTWJS62/HWgxbABu72CZNjBUbKSFUdtokjczUNrDsNGaV&#x0A;gV3MLboy6ayeMVYxlZ8+HZFu8H5KuZ+DWKfkdtB2zaGLsBK7R+B23fqVuZ3l8eGz&#x0A;oyyGMQTOxiPNHJFTV/Z2QLzvAVyiHvvLJohS0xhiqG5/OqgSf5X2FDrEdpGIFOLY&#x0A;XDJO8Y9aeCfTJQR77RXMXLThXA6cgKvUDnSBrK6mPFbAPzJnTP/4ij9xhterpjN8&#x0A;EQIDAQAB&#x0A;-----END PUBLIC KEY-----&#x0A;</Certificate>
-    <Digest Value>DmgajDm08n2vCYdECmtdosL+K2KkvN7pcbp4g1GjM+MPQB4yBUnklt8tUwDmnf4A&#x0A;kTBwlyQvE8zWswewo2Il0w2iY9ufxTNeNa4szfz4kCBXe3Xp6EGh6ouVnLMq955v&#x0A;pEIf+6XqeDfDrkBOo5+C5qoDE6mPRSYpaHA5jRDEnCBAna4VBTX1oe7gdcX4sYM/&#x0A;4nqXoHm3uGTUbPEGOnXam8+hd7i/aaXtvEc+Q8DJNxu4E0YKNPqzSSby349Anun/&#x0A;/giDms4onuvd88NUEX9VrevOm/IV1IKlHfvcF6fnRxijbmoQJwtegqZcBPmCPXwP&#x0A;GlNV3riRlmXhkLXSk2gVdw==&#x0A;</Digest Value>
-</signature>
-<Merchant Merchant_id="-5023497618971072366">
-    <Merchant Name>Hardin</Merchant Name>
-    <Type>LLC</Type>
-</Merchant>

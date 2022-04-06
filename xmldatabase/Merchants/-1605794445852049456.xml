@@ -1,9 +1,0 @@
-<?xml version="1.0" ?>
-<signature key_info="RSA">
-    <Certificate>-----BEGIN PUBLIC KEY-----&#x0A;MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyXkkvd1ozSIAyPr3WFdL&#x0A;O2q+Hz+WRTiOqjR2D+fFTpWVEhhbVG1hLiU9hvPci9BJhcsYX+xfRzA2am9X0hzm&#x0A;uxQj5VvI5NnjqXf9aYsxTWJS62/HWgxbABu72CZNjBUbKSFUdtokjczUNrDsNGaV&#x0A;gV3MLboy6ayeMVYxlZ8+HZFu8H5KuZ+DWKfkdtB2zaGLsBK7R+B23fqVuZ3l8eGz&#x0A;oyyGMQTOxiPNHJFTV/Z2QLzvAVyiHvvLJohS0xhiqG5/OqgSf5X2FDrEdpGIFOLY&#x0A;XDJO8Y9aeCfTJQR77RXMXLThXA6cgKvUDnSBrK6mPFbAPzJnTP/4ij9xhterpjN8&#x0A;EQIDAQAB&#x0A;-----END PUBLIC KEY-----&#x0A;</Certificate>
-    <Digest Value>hmGHPPhs8A3/xCvGaRUe99A1DCbQ9q0lquL3Zm7rR1nCGed4E4VpnlKJmh1H+6oW&#x0A;6EAuh4hn5sPtEd2NAUorPCXhaFijkdepo2v9eHGtXnTc/vY8VZoQ6FvvmDdkvv2d&#x0A;kkj03H6m3rE6wl3ONnR138NXy8uuc5MQM8QxsHYbJIdZ6GmIRvVaJcMisK2atakQ&#x0A;TTEVblpZYiV98eJhRi0w/x6spMZglweFtWifFu5uQOSUTOjsT0504IAcJvpo//tJ&#x0A;YRZ5XYxi+MoSfABIbCtv2Bfa+uCSfINvZivBl6s0TSKsXuSkPiCyMQDAE3/JqgjC&#x0A;/ssnWTvpbWEdyRZ4x9NPoA==&#x0A;</Digest Value>
-</signature>
-<Merchant Merchant_id="-1605794445852049456">
-    <Merchant Name>Benitez-Cannon</Merchant Name>
-    <Type>Inc</Type>
-</Merchant>

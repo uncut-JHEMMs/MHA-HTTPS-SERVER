@@ -1,9 +1,0 @@
-<?xml version="1.0" ?>
-<signature key_info="RSA">
-    <Certificate>-----BEGIN PUBLIC KEY-----&#x0A;MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyXkkvd1ozSIAyPr3WFdL&#x0A;O2q+Hz+WRTiOqjR2D+fFTpWVEhhbVG1hLiU9hvPci9BJhcsYX+xfRzA2am9X0hzm&#x0A;uxQj5VvI5NnjqXf9aYsxTWJS62/HWgxbABu72CZNjBUbKSFUdtokjczUNrDsNGaV&#x0A;gV3MLboy6ayeMVYxlZ8+HZFu8H5KuZ+DWKfkdtB2zaGLsBK7R+B23fqVuZ3l8eGz&#x0A;oyyGMQTOxiPNHJFTV/Z2QLzvAVyiHvvLJohS0xhiqG5/OqgSf5X2FDrEdpGIFOLY&#x0A;XDJO8Y9aeCfTJQR77RXMXLThXA6cgKvUDnSBrK6mPFbAPzJnTP/4ij9xhterpjN8&#x0A;EQIDAQAB&#x0A;-----END PUBLIC KEY-----&#x0A;</Certificate>
-    <Digest Value>tZMonvyFWkunI8G/5MuX20gazOlbujMNsYsGBYrnXVWFnmppQ/CzFkum1pZKjcG8&#x0A;ePmLmMuxQFFRp2VQWoEkFIM2ksoVm2xEhrQSlLbKSOl5foHhMA2uo66xgB5ZKFEX&#x0A;9AzwA7ZtprxeSWuf/evIrWt9rBqSBmd3HT1y7bck73R1BgxDj40x4wunRW07orPp&#x0A;zEJzZ2oNo2VZBaP4D/nSxbnXc0kla1wKpBsydavPQLkiCfbPn6XchuKlyDbhpj8T&#x0A;ofi3ZXtOje8QEc886ceNK4XcHDMG87lD4QeH7+sSMPzfIsseEqKOdiNMgkfVqx5v&#x0A;lulmgp0wEflUngAc7nqi7w==&#x0A;</Digest Value>
-</signature>
-<Merchant Merchant_id="5445101915276107289">
-    <Merchant Name>Dickerson</Merchant Name>
-    <Type>PLC</Type>
-</Merchant>
