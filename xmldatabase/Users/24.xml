@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<Signature key_info="RSA">
+    <Certificate>-----BEGIN PUBLIC KEY-----&#x0A;MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyXkkvd1ozSIAyPr3WFdL&#x0A;O2q+Hz+WRTiOqjR2D+fFTpWVEhhbVG1hLiU9hvPci9BJhcsYX+xfRzA2am9X0hzm&#x0A;uxQj5VvI5NnjqXf9aYsxTWJS62/HWgxbABu72CZNjBUbKSFUdtokjczUNrDsNGaV&#x0A;gV3MLboy6ayeMVYxlZ8+HZFu8H5KuZ+DWKfkdtB2zaGLsBK7R+B23fqVuZ3l8eGz&#x0A;oyyGMQTOxiPNHJFTV/Z2QLzvAVyiHvvLJohS0xhiqG5/OqgSf5X2FDrEdpGIFOLY&#x0A;XDJO8Y9aeCfTJQR77RXMXLThXA6cgKvUDnSBrK6mPFbAPzJnTP/4ij9xhterpjN8&#x0A;EQIDAQAB&#x0A;-----END PUBLIC KEY-----&#x0A;</Certificate>
+    <Digest Value>LZUZ3+eBsy2Q8GwTw3cf1hA+ffOBA9XFuIhQRZ0td6+z8HvvGEj50cODI4vsWuLj&#x0A;NJ1nZnElVqTTl/O6vW4yDtmZpDaimQaZUJ+BXfGaPu9/qKrryPR0XIJT0D6EaL3W&#x0A;6VyItRnPJxw8laHztPEbIGcqQr3531cYo/HW9iPuMlRFjNNh9FTcjpHm53NcSkCZ&#x0A;ZwFEnr/R1XzeO52ClvsTkQ6Z/Lk6zL96hQ1dFjcrXolu450K3nmE/H+QpdYxxQMl&#x0A;kGGZFqiH8Z+3fDPfwomkqg1DQiX1oTqhWtru+7S3XE+SW0qHbKmLR3Y2C2RAyPf8&#x0A;PC3eEdEsmN5G4QViYKaDgQ==&#x0A;</Digest Value>
+</Signature>
+<Person id="ssn">
+    <Cutomer uid="24">
+        <First Name>Nathan</First Name>
+        <Last Name>Palmer</Last Name>
+        <Email>NathanPalmer@smoothstack.com</Email>
+    </Cutomer>
+</Person>

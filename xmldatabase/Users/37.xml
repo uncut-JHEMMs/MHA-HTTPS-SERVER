@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<Signature key_info="RSA">
+    <Certificate>-----BEGIN PUBLIC KEY-----&#x0A;MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyXkkvd1ozSIAyPr3WFdL&#x0A;O2q+Hz+WRTiOqjR2D+fFTpWVEhhbVG1hLiU9hvPci9BJhcsYX+xfRzA2am9X0hzm&#x0A;uxQj5VvI5NnjqXf9aYsxTWJS62/HWgxbABu72CZNjBUbKSFUdtokjczUNrDsNGaV&#x0A;gV3MLboy6ayeMVYxlZ8+HZFu8H5KuZ+DWKfkdtB2zaGLsBK7R+B23fqVuZ3l8eGz&#x0A;oyyGMQTOxiPNHJFTV/Z2QLzvAVyiHvvLJohS0xhiqG5/OqgSf5X2FDrEdpGIFOLY&#x0A;XDJO8Y9aeCfTJQR77RXMXLThXA6cgKvUDnSBrK6mPFbAPzJnTP/4ij9xhterpjN8&#x0A;EQIDAQAB&#x0A;-----END PUBLIC KEY-----&#x0A;</Certificate>
+    <Digest Value>sl3woVpjETWGgwM5hb4rZg7Dr6fx5DaWcp//KbFvxDHfLIE9PZ0H5ZbUv6FxufN9&#x0A;b8ZcX+zioEO2RghhOA4yTOifAgh6OYZYik/iPVUORBEFIzl1ot1tJdCEsMS82N7b&#x0A;sORjd8jV6BM4tkxPVhNnPKWFThegzh5idt5Sbfyh0exPDqFZtgHnT9SpjIUVcns1&#x0A;opTRAT0CJLodKsVUp4U1DExVFTMPP0dbXhdQ9RpYlX/SbalLZJLkqfAulkjjEzjc&#x0A;2AQVOxyKp070VnB0G80GBC/jgA8kjeZK1se2+A1A39rfajIctDljcKGoxUzjplMP&#x0A;1GVRknFUtvw22X5gpBSjjw==&#x0A;</Digest Value>
+</Signature>
+<Person id="ssn">
+    <Cutomer uid="37">
+        <First Name>Shawn</First Name>
+        <Last Name>Bennett</Last Name>
+        <Email>ShawnBennett@smoothstack.com</Email>
+    </Cutomer>
+</Person>

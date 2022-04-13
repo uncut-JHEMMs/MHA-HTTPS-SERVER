@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<Signature key_info="RSA">
+    <Certificate>-----BEGIN PUBLIC KEY-----&#x0A;MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyXkkvd1ozSIAyPr3WFdL&#x0A;O2q+Hz+WRTiOqjR2D+fFTpWVEhhbVG1hLiU9hvPci9BJhcsYX+xfRzA2am9X0hzm&#x0A;uxQj5VvI5NnjqXf9aYsxTWJS62/HWgxbABu72CZNjBUbKSFUdtokjczUNrDsNGaV&#x0A;gV3MLboy6ayeMVYxlZ8+HZFu8H5KuZ+DWKfkdtB2zaGLsBK7R+B23fqVuZ3l8eGz&#x0A;oyyGMQTOxiPNHJFTV/Z2QLzvAVyiHvvLJohS0xhiqG5/OqgSf5X2FDrEdpGIFOLY&#x0A;XDJO8Y9aeCfTJQR77RXMXLThXA6cgKvUDnSBrK6mPFbAPzJnTP/4ij9xhterpjN8&#x0A;EQIDAQAB&#x0A;-----END PUBLIC KEY-----&#x0A;</Certificate>
+    <Digest Value>I4RiLkDuSDPN1v2OC+vGF1LfKU3+Pq58ws9l7ZAD5oExHvNFMhjxPT69wQQTfKoP&#x0A;6Y3SFtie9JzSJFBDwAsZO4+F2mcHC0enOr+/0WR9NKKdGMIVxzBmdE/1aRDkpLZL&#x0A;Lpdz56dfsEYmQ/sLIvLFR0OTnTBMyEmCbK/a1MfYPS3liJCBgfoy0ee19YI4bSf3&#x0A;82kHINn1Jk9021scAO7AeqUPy5TS4FZnTsjMClD5VRQU23puoCZsYEXl0XWgqdAm&#x0A;gwVGaZ0jyoB+6yp6uE+ItMX2P7iqQkmC9vmo7XjoBNA4cNcM3fHbo4K2HyBr73GP&#x0A;4wLwbz0j6AkeyUTR07+dbQ==&#x0A;</Digest Value>
+</Signature>
+<Person id="ssn">
+    <Cutomer uid="10">
+        <First Name>Stephanie</First Name>
+        <Last Name>Powell</Last Name>
+        <Email>StephaniePowell@smoothstack.com</Email>
+    </Cutomer>
+</Person>

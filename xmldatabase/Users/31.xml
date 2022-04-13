@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<Signature key_info="RSA">
+    <Certificate>-----BEGIN PUBLIC KEY-----&#x0A;MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyXkkvd1ozSIAyPr3WFdL&#x0A;O2q+Hz+WRTiOqjR2D+fFTpWVEhhbVG1hLiU9hvPci9BJhcsYX+xfRzA2am9X0hzm&#x0A;uxQj5VvI5NnjqXf9aYsxTWJS62/HWgxbABu72CZNjBUbKSFUdtokjczUNrDsNGaV&#x0A;gV3MLboy6ayeMVYxlZ8+HZFu8H5KuZ+DWKfkdtB2zaGLsBK7R+B23fqVuZ3l8eGz&#x0A;oyyGMQTOxiPNHJFTV/Z2QLzvAVyiHvvLJohS0xhiqG5/OqgSf5X2FDrEdpGIFOLY&#x0A;XDJO8Y9aeCfTJQR77RXMXLThXA6cgKvUDnSBrK6mPFbAPzJnTP/4ij9xhterpjN8&#x0A;EQIDAQAB&#x0A;-----END PUBLIC KEY-----&#x0A;</Certificate>
+    <Digest Value>I/PDSW+oL3Ydtb6e1InG9JmxQYNAzO3a+0tUs9Ps7nPdPPVQlCE1N92hA/bD0Vki&#x0A;ZnwCN/1l3FfCKRI5P4cOdOnZUoNQZvjp9ePi33zqDr58ljPojmDmeU1+iy6GyQ4s&#x0A;aSAgxLYGEpkg/sBPtg9gJ8Rpqgg/Grj6rEDW6NDi1gM+cga/n5y/ksdBiLvvPA4b&#x0A;uc+M2i5wXjjj42Z3LcQ+AFRF0pw+GYsbIan6IvjJCahvpPTBj4Rf8qMc/G2l2v8p&#x0A;l920V9cOaeNlIyopNjsBbQLQ66joKspE2hgDmWc6b/MsF9Z1bn4o4M8fEHpZC8FB&#x0A;CMXU9gmbVu0HI3Bg5z2PFw==&#x0A;</Digest Value>
+</Signature>
+<Person id="ssn">
+    <Cutomer uid="31">
+        <First Name>Laura</First Name>
+        <Last Name>Golden</Last Name>
+        <Email>LauraGolden@smoothstack.com</Email>
+    </Cutomer>
+</Person>

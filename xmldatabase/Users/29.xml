@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<Signature key_info="RSA">
+    <Certificate>-----BEGIN PUBLIC KEY-----&#x0A;MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyXkkvd1ozSIAyPr3WFdL&#x0A;O2q+Hz+WRTiOqjR2D+fFTpWVEhhbVG1hLiU9hvPci9BJhcsYX+xfRzA2am9X0hzm&#x0A;uxQj5VvI5NnjqXf9aYsxTWJS62/HWgxbABu72CZNjBUbKSFUdtokjczUNrDsNGaV&#x0A;gV3MLboy6ayeMVYxlZ8+HZFu8H5KuZ+DWKfkdtB2zaGLsBK7R+B23fqVuZ3l8eGz&#x0A;oyyGMQTOxiPNHJFTV/Z2QLzvAVyiHvvLJohS0xhiqG5/OqgSf5X2FDrEdpGIFOLY&#x0A;XDJO8Y9aeCfTJQR77RXMXLThXA6cgKvUDnSBrK6mPFbAPzJnTP/4ij9xhterpjN8&#x0A;EQIDAQAB&#x0A;-----END PUBLIC KEY-----&#x0A;</Certificate>
+    <Digest Value>ufRaNKjKA2bEq93fbrFabZvo7GTF2wklYPzP59ZyYWPjLmj8/TH93iuEgLdOwUrC&#x0A;+U8zsFwqR5xqf/OMZcBFAhHsdgcijaG49aPSVSFh18MonUK2GVCaIobjHkEDu+Pu&#x0A;vhfQJZ3V3vajVCJWIAu6ornYZ64/7GnyhH/Paj5mGhj6G30+rBdFU5BUwZ8jG9iR&#x0A;lLep090NKf0bqFN6uCFWXvy9alufPXa+joY7tL5IgoBXRVHWIw99NW8x/5k4sYSz&#x0A;RYlXviXSddTah7dm94Jv3fT2HZquLShzDP6Hba5gbOdlwqZ5kLJLXxLFeuNRoLri&#x0A;j+EySG5H8B2hLD2ktkUxDA==&#x0A;</Digest Value>
+</Signature>
+<Person id="ssn">
+    <Cutomer uid="29">
+        <First Name>Tony</First Name>
+        <Last Name>Perez</Last Name>
+        <Email>TonyPerez@smoothstack.com</Email>
+    </Cutomer>
+</Person>

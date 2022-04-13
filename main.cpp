@@ -13,6 +13,9 @@
 //resources
 #include "./resources/digest_resource.h"
 #include "./resources/hello_world_resource.h"
+#include "./resources/create_user_resource.h"
+#include "./resources/create_credit_cards_resource.h"
+#include "./resources/add_merchant.h"
 
 using namespace httpserver;
 
@@ -22,11 +25,11 @@ using namespace httpserver;
 void custom_access_log(const std::string& url) {
     std::cout << "ACCESSING: " << url << std::endl;
     
-        {
-            std::lock_guard<std::mutex> lk(PerformanceLogger::m);
-            PerformanceLogger::sig = true;
-        }
-        PerformanceLogger::cv.notify_one();
+        //{
+        //    std::lock_guard<std::mutex> lk(PerformanceLogger::m);
+        //    PerformanceLogger::sig = true;
+        //}
+        //PerformanceLogger::cv.notify_one();
 }
 
 // if resource not found
@@ -43,7 +46,7 @@ int main(int argc, char** argv)
         .start_method(http::http_utils::INTERNAL_SELECT).max_threads(8)
         .max_connections(10)
         .connection_timeout(60)
-        .per_IP_connection_limit(2)
+        //.per_IP_connection_limit(2)
         .use_dual_stack()
         .use_ssl()
         .https_mem_trust("./certs/newcert.crt")
@@ -54,7 +57,7 @@ int main(int argc, char** argv)
         .not_found_resource(not_found_custom);
     
 
-    std::thread t(PerformanceLogger::calculateResponseTime);
+//    std::thread t(PerformanceLogger::calculateResponseTime);
     
     hello_world_resource hwr;
     ws.register_resource("/hello", &hwr);
@@ -62,9 +65,18 @@ int main(int argc, char** argv)
     digest_resource dr;
     ws.register_resource("/auth" , &dr);
 
+    create_user_resource cur;
+    ws.register_resource("/addUser" , &cur);
+    
+    create_merchants_resource mrt;
+    ws.register_resource("/addMerchant" , &mrt);
+
+    create_credit_card_resource crt;
+    ws.register_resource("/addCard" , &crt);
+
 
     ws.start(true);
     
-    t.join();
+//    t.join();
     return 0;
 }

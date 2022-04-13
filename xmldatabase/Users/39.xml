@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<Signature key_info="RSA">
+    <Certificate>-----BEGIN PUBLIC KEY-----&#x0A;MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyXkkvd1ozSIAyPr3WFdL&#x0A;O2q+Hz+WRTiOqjR2D+fFTpWVEhhbVG1hLiU9hvPci9BJhcsYX+xfRzA2am9X0hzm&#x0A;uxQj5VvI5NnjqXf9aYsxTWJS62/HWgxbABu72CZNjBUbKSFUdtokjczUNrDsNGaV&#x0A;gV3MLboy6ayeMVYxlZ8+HZFu8H5KuZ+DWKfkdtB2zaGLsBK7R+B23fqVuZ3l8eGz&#x0A;oyyGMQTOxiPNHJFTV/Z2QLzvAVyiHvvLJohS0xhiqG5/OqgSf5X2FDrEdpGIFOLY&#x0A;XDJO8Y9aeCfTJQR77RXMXLThXA6cgKvUDnSBrK6mPFbAPzJnTP/4ij9xhterpjN8&#x0A;EQIDAQAB&#x0A;-----END PUBLIC KEY-----&#x0A;</Certificate>
+    <Digest Value>CaLNqdXWKLxs3cbNeEn54gTZLyi43SpFsashkr6lGJDnQUXGW+V8Fh7xWQXoNE/T&#x0A;Fw4pZaM/QhIvmWLeXP/+cpPcCXQOBUOsoXH15CPS0hYAFwxfFBB1rXc+bEoLchDG&#x0A;4v1aWV8z5ENdKPPVQCA8ACXaPSvq3WOlviArOjrlge1h92IrjOY+23G2qfiXv6XN&#x0A;SgwAKpC4CijkvR2MBCajScIsWxKdwcGK7BmgBWeJuxhnRzg8Lo921XRpO7L6EJP3&#x0A;Cu9c0Gd9T8pbMllYDbkc7QhKijbGp8u07YvcRDs83X1GEmCCi4r6cB8FzxmvnQm3&#x0A;MF7GhTgRRUpvPVb4MahBng==&#x0A;</Digest Value>
+</Signature>
+<Person id="ssn">
+    <Cutomer uid="39">
+        <First Name>Mark</First Name>
+        <Last Name>Fisher</Last Name>
+        <Email>MarkFisher@smoothstack.com</Email>
+    </Cutomer>
+</Person>

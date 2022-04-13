@@ -1,0 +1,4 @@
+## Last datafile plotted: "immigration.dat"
+set term postscript eps enhanced 
+set output 'status.eps'
+plot 'spamapi.csv' using 1:2 with lines lt 2 lw 5

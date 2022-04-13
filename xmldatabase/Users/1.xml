@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<Signature key_info="RSA">
+    <Certificate>-----BEGIN PUBLIC KEY-----&#x0A;MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyXkkvd1ozSIAyPr3WFdL&#x0A;O2q+Hz+WRTiOqjR2D+fFTpWVEhhbVG1hLiU9hvPci9BJhcsYX+xfRzA2am9X0hzm&#x0A;uxQj5VvI5NnjqXf9aYsxTWJS62/HWgxbABu72CZNjBUbKSFUdtokjczUNrDsNGaV&#x0A;gV3MLboy6ayeMVYxlZ8+HZFu8H5KuZ+DWKfkdtB2zaGLsBK7R+B23fqVuZ3l8eGz&#x0A;oyyGMQTOxiPNHJFTV/Z2QLzvAVyiHvvLJohS0xhiqG5/OqgSf5X2FDrEdpGIFOLY&#x0A;XDJO8Y9aeCfTJQR77RXMXLThXA6cgKvUDnSBrK6mPFbAPzJnTP/4ij9xhterpjN8&#x0A;EQIDAQAB&#x0A;-----END PUBLIC KEY-----&#x0A;</Certificate>
+    <Digest Value>JvlIuhUOVBASYYhNuG9HIJdbP04CuCPV9AwXfBCh5QaFkgQeU4uMfcvwl+e+UxGV&#x0A;4zLUu+09VX4iD07iBTXexP21xqJqOl/BDCiBJDQiJ65NqORgDzU6CSCDA5d+ZJOo&#x0A;PUjMQd0WwFwlS506uIKS0MnsEub++7FRNAEX+5FrwSZKclwjYG8dpObXwtusgLAG&#x0A;nx3n0EMLqed9R7sO+9QWRm73OsWs3l8ZJB8E4l/gSIjWCqccMak793hwIo5RT2WP&#x0A;XsVw28lu5Zj3UnnWuXX5uW1w7p/g4loyU1hrTQ3q+DYlxTSi3tjsadtLxQ6Cuph0&#x0A;ZWT67l2jGIuAIp8gm2F6jA==&#x0A;</Digest Value>
+</Signature>
+<Person id="ssn">
+    <Cutomer uid="1">
+        <First Name>Rita</First Name>
+        <Last Name>Brown</Last Name>
+        <Email>RitaBrown@smoothstack.com</Email>
+    </Cutomer>
+</Person>
