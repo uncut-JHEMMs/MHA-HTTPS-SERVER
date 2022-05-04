@@ -17,6 +17,15 @@
 #include "./resources/create_credit_cards_resource.h"
 #include "./resources/add_merchant.h"
 
+//data_processor resources here**************
+#include "./resources/dataprocessing_resource/insufficient_balance_more_than_once_resource.h"
+#include "./resources/dataprocessing_resource/insufficient_balance_atleast_once_resource.h"
+#include "./resources/dataprocessing_resource/Identify_all_type_transactions_resource.h"
+#include "./resources/dataprocessing_resource/deposits_by_given_user.h"
+#include "./resources/dataprocessing_resource/top_five_group_by_cities_with_total_number_of_transactions_resource.h"
+#include "./resources/dataprocessing_resource/top_five_recurring_transactions_groupby+merchants_resource.h"
+
+
 using namespace httpserver;
 
 
@@ -73,6 +82,25 @@ int main(int argc, char** argv)
 
     create_credit_card_resource crt;
     ws.register_resource("/addCard" , &crt);
+
+    insufficient_balance_more_than_once_resource insuf_balance;
+    ws.register_resource("/insufficient_balance_more_then_one" , &insuf_balance);
+
+    insufficient_balance_atleast_once_resource insuf_balance_once;
+    ws.register_resource("/insufficient_balance_atleast_once" , &insuf_balance_once);
+
+    identify_all_types_of_transactions_resource all_trans_types;
+    ws.register_resource("/identify_all_type_of_transactions" , &all_trans_types);
+
+    deposits_by_given_user dpu;
+    ws.register_resource("/deposits" , &dpu);
+
+    top_five_gorup_by_cities_with_total_number_of_transactions tpc;
+    ws.register_resource("/top_five_gorup_by_cities" , &tpc);
+
+    top_five_recurring_transactions_groupby_merchants tpm;
+    ws.register_resource("/top_five_recurring_transactions" , &tpm);
+
 
 
     ws.start(true);
