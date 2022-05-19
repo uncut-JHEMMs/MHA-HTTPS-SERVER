@@ -8,6 +8,22 @@
 #include<vector>
 #include<mutex>
 #include<set>
+#include "../../xmldatabase/xml_controller_temp.h"
+
+
+struct largest_transactions
+{
+    std::string uid;
+    std::string merchnat_id;
+    double amount;
+
+    void operator =(largest_transactions other)
+    {
+        this->uid = other.uid;
+        this->merchnat_id = other.merchnat_id;
+        this->amount = other.amount;
+    }
+};
 class data_processor
 {
     private:
@@ -17,6 +33,7 @@ class data_processor
         std::map<std::string , std::map<std::string , int>> mp2;
         std::vector<std::string> vec;
         std::map<std::string , int> gpset;
+        std::map<std::string , double> mpamount;
     public:
 
         data_processor()
@@ -360,7 +377,7 @@ class data_processor
 
         void get_list_of_payments_for_given_user_from_flat_file(long int from , long int to , std::string id)
         {
-            std::string transaction , fid , payment;
+            std::string transaction , fid , payment , month , errors;
             std::ifstream flat_file;
             flat_file.open("../card_transaction.v1.csv" );
             flat_file.seekg(from);
@@ -368,6 +385,9 @@ class data_processor
             {
                 std::getline(flat_file, transaction);
             }
+            bool prev_error = false;
+            int prev_month =13;
+
             while(flat_file.tellg() != to)
             {
                 std::getline(flat_file, transaction);
@@ -378,25 +398,63 @@ class data_processor
 
                 std::stringstream ss(transaction);
                 std::getline(ss , fid , ',');
-                for(int i=0; i< 6; i++)
-                {
-                    std::getline(ss , payment , ',');
-                }
-                
-                
                 if (fid == id)
                 {
-                    std::lock_guard<std::mutex> lock(mtx);
-                    vec.push_back(payment);
+                    std::getline(ss , month , ',');
+                    std::getline(ss , month , ',');
+                    std::getline(ss , month , ',');
+
+                    for(int i=0; i< 3; i++)
+                    {
+                        std::getline(ss , payment , ',');
+                    }
+                    for(int i=0; i< 7; i++)
+                    {
+                        std::getline(ss , errors , ',');
+                    }
+                    if (errors[0] == '"')
+                    {
+                        std::string temp;
+                        std::getline(ss , temp , '"');
+                        errors += ',';
+                        errors += temp;
+                        errors += '"';
+                    }
+                    bool flag = insufficient_balance_occured(errors , fid);
+                    if (flag == true && prev_error == false)
+                    {
+                        prev_error = flag;
+                    }
+                    if (flag == false && prev_error == true)
+                    {
+                        vec.push_back(payment);
+                        prev_error = false;
+                        continue;
+                    }
+
+                    if (prev_month < std::stoi(month))
+                    {
+                        vec.push_back(payment);
+                        prev_month = std::stoi(month);
+                        continue;
+                    }
+                    if (prev_month > std::stoi(month))
+                    {
+                        prev_month = std::stoi(month);
+                        continue;
+                    }
+                } 
+                else if (fid  < id){
+                    continue;
                 }
                 else{
-                    continue;
+                    return;
                 }             
             }
         }
 
 
-        std::string list_all_payments_made_by_user(std::string id)
+        void list_all_payments_made_by_user(std::string id)
         {
             std::ifstream index_file;
             index_file.open("./utilities/data_processors/index_info.txt");
@@ -423,12 +481,20 @@ class data_processor
                 vector_of_threads[i].join();
             }
 
-            std::string buffer;
+            std::vector<std::pair<std::string , std::vector<std::string>>> xmvect;
+            std::string user_data[3];
+            get_user_name(id , user_data);
             for (auto &i : vec)
             {
-                buffer += i + '\n';
-            }   
-            return buffer;
+                std::vector<std::string> internalvect;
+                internalvect.push_back(user_data[0]);
+                internalvect.push_back(user_data[1]);
+                internalvect.push_back(user_data[2]);
+                xmvect.push_back(std::pair<std::string , std::vector<std::string>>({i ,  internalvect}));
+            }
+            TempXml xm;
+            xm.create_xml(xmvect , "Amount" , {"First Name" , "Last Name" , "Email"});
+
         }
 
         //Top 5 Group BY Cities with total number of transactions
@@ -629,9 +695,488 @@ class data_processor
                 buffer += i.first + "  ,  " + std::to_string(i.second) + "\n";
             }
             return buffer;
+        }
 
+        void t5_total_amount_transactions_groupby_zipcodes_setup(long int from , long int to)
+        {
+            std::string transaction , amount , zipcode;
+            std::ifstream flat_file;
+            flat_file.open("../card_transaction.v1.csv");
+            flat_file.seekg(from);
+
+            if(from == 0)
+            {
+                std::getline(flat_file, transaction);
+            }
+
+            while(flat_file.tellg() != to)
+            {
+                std::getline(flat_file, transaction);
+                std::stringstream ss(transaction);
+                for(int i=0; i<7; i++)
+                {
+                    std::getline(ss , amount , ',');
+                }
+                for(int i=0; i<6; i++)
+                {
+                    std::getline(ss , zipcode , ',');
+                }
+
+                amount.erase(0,1);
+                double amnt = std::stod(amount);
+
+                std::map<std::string, double>::iterator it;
+                it = mpamount.find(zipcode);
+
+                if(it == mpamount.end())
+                {
+                    mpamount.insert({zipcode , amnt});
+                }
+                else
+                {
+                    it->second += amnt;
+                }
+            }
+        }
+
+        void t5_total_amount_transactions_groupby_zipcodes()
+        {
+            std::ifstream index_file;
+            index_file.open("./utilities/data_processors/index_info.txt");
+            if (index_file.is_open())
+                std::cout << "index file is open" << std::endl;
+            std::vector<long int> indices;  //to store index information
+            std::vector<std::thread> vector_of_threads; // for threads
+            while (index_file.good())
+            {
+                long int temp;
+                index_file >> temp;
+                // std::cout << "pushing temp" << temp << std::endl;
+                indices.push_back(temp);
+            }
+
+            for (unsigned int i = 1; i < indices.size(); i++)
+            {
+                vector_of_threads.push_back(std::thread (&data_processor::t5_total_amount_transactions_groupby_zipcodes_setup ,this , indices[i-1] , indices[i]));
+            }
+
+            for (unsigned int i = 0; i < indices.size()-1; i++)
+            {
+                vector_of_threads[i].join();
+            }
+            std::vector<std::pair<std::string , double>> vect;
+            vect.push_back({"ciry" , 1});
+            vect.push_back({"ciry" , 1});
+            vect.push_back({"ciry" , 1});
+            vect.push_back({"ciry" , 1});
+            vect.push_back({"ciry" , 1});
+            for (auto &i : mpamount)
+            {
+                for(int j =0; j<5; j++)
+                {
+                    if(vect[j].second < i.second)
+                    {
+                        vect[j].first = i.first;
+                        vect[j].second = i.second;
+                        break;
+                    }
+                }
+            }
+            index_file.close();
+            //prepping for xml function
+            std::vector<std::pair<std::string , std::vector<std::string>>> xmvect;
+            std::vector<std::string> internalvect;
+            std::ifstream mydata;
+            for (auto &i : vect)
+            {
+                internalvect.push_back(std::to_string(i.second));
+                std::ifstream mydata;
+                mydata.open("data_generation/final_data/states.csv");
+                
+                //briging in data for states according to zipcode
+                while(!mydata.eof())
+                {
+                    std::string state, abb;
+                    int start , end;
+                    std::string states_data;
+                    std::getline(mydata , states_data);
+                    std::stringstream ss(states_data);
+                    while(ss.good())
+                    {
+                        std::getline(ss , state , '\t');
+                        std::getline(ss , state , '\t');
+                        std::getline(ss , abb , '\t');
+                        ss >> start >> end;
+                    }
+                    if (state != "")
+                    {
+                        if ( std::stoi(i.first) > start && std::stoi(i.first) < end)
+                        {
+                            internalvect.push_back(state);
+                            internalvect.push_back(abb);
+                        }
+                    }
+                }
+                xmvect.push_back(std::pair<std::string , std::vector<std::string>>({i.first , internalvect}));
+                internalvect.clear();
+            }
             
+            TempXml xm;
+            xm.create_xml(xmvect , "zipcode" , {"Amount" , "Sate" , "Abbrevation"});
+        }
+
+        void t10_largest_transactions_setup(long int from , long int to , std::vector<largest_transactions> &vect)
+        {
+            std::string transaction;
+            largest_transactions temp;
+
+            std::ifstream flat_file;
+            flat_file.open("../card_transaction.v1.csv");
+            flat_file.seekg(from);
+
+            if(from == 0)
+            {
+                std::getline(flat_file, transaction);
+            }
+            while(flat_file.tellg() != to)
+            {
+                std::getline(flat_file, transaction);
+                std::stringstream ss(transaction);
+                std::getline(ss , temp.uid , ',');
+                std::string amnt;   // to bring the amount from file
+                for (int i =0; i<6; i++)
+                {
+                    std::getline(ss , amnt , ',');
+                }
+                amnt.erase(0,1);
+                temp.amount = std::stod(amnt);
+                
+                std::getline(ss , temp.merchnat_id , ',');
+                std::getline(ss , temp.merchnat_id , ',');
+                
+                for (auto &i : vect)
+                {
+                    if (i.amount < temp.amount)
+                    {
+                        mtx.lock();
+                        i.amount = temp.amount;
+                        i.merchnat_id = temp.merchnat_id;
+                        i.uid = temp.uid;
+                        mtx.unlock();
+                        break;
+                    }
+                }
+            }
+        }
+
+        void t10_largest_transactions()
+        {
+            std::vector<largest_transactions> my_vect;
+            largest_transactions temp;
+            temp.amount = 0;
+            temp.merchnat_id = "-1";
+            temp.uid = "-1";
+            for (int i =0; i<10; i++)
+            {
+                my_vect.push_back(temp);
+            }
+            std::ifstream index_file;
+            index_file.open("./utilities/data_processors/index_info.txt");
+            std::vector<long int> indices;  //to store index information
+            std::vector<std::thread> vector_of_threads; // for threads
+            while (index_file.good())
+            {
+                long int temp;
+                index_file >> temp;
+                // std::cout << "pushing temp" << temp << std::endl;
+                indices.push_back(temp);
+            }
+            
+            for (unsigned int i = 1; i < indices.size(); i++)
+            {
+                vector_of_threads.push_back(std::thread (&data_processor::t10_largest_transactions_setup ,this , indices[i-1] , indices[i] , std::ref(my_vect)));
+            }
+
+            for (unsigned int i = 0; i < indices.size()-1; i++)
+            {
+                vector_of_threads[i].join();
+            }
+
+            std::vector<std::pair<std::string , std::vector<std::string>>> xmvect;
+            for (auto &i : my_vect)
+            {
+                
+                std::vector<std::string> internal_vector;
+                std::string merchant_data = get_merchant_name(i.merchnat_id);
+                std::string user_data[3];
+                get_user_name(i.uid , user_data);
+                internal_vector.push_back(merchant_data);
+                internal_vector.push_back(user_data[0]);
+                internal_vector.push_back(user_data[1]);
+                internal_vector.push_back(user_data[2]);
+
+                xmvect.push_back(std::pair<std::string , std::vector<std::string>>({std::to_string(i.amount) , internal_vector}));
+            }
+            TempXml xm;
+            xm.create_xml(xmvect , "Amount" , {"Merchant" , "Client First Name" , "Client Last Name" , "Client Email"});
+
+        }
+
+        std::string get_merchant_name(std::string id)
+        {
+            std::string merchant , mid , name , type;
+            std::ifstream mydata;
+            mydata.open("data_generation/final_data/merchants_table.csv");
+            while(!mydata.eof())
+            {
+                std::getline(mydata , merchant);
+                std::stringstream ss(merchant);
+                while(ss.good())
+                {
+                    std::getline(ss , mid , '\t');
+                    std::getline(ss , name , '\t');
+                    std::getline(ss , type , '\n');  
+                }
+                if (mid == id)
+                {
+                    return name + " " + type;
+                }
+            }
+            return "None";
+            
+        }
+        std::string * get_user_name(std::string id , std::string arr[] )
+        {
+            std::string merchant , uid;
+            std::ifstream mydata;
+            mydata.open("data_generation/final_data/users_table.csv");
+            while(!mydata.eof())
+            {
+                std::getline(mydata , merchant);
+                std::stringstream ss(merchant);
+                while(ss.good())
+                {
+                    std::getline(ss , uid , '\t');
+                    std::getline(ss , arr[0] , '\t');
+                    std::getline(ss , arr[1] , '\t');
+                    std::getline(ss , arr[2] , '\n');  
+                }
+                if (uid == id)
+                {
+                    return arr;
+                }
+            }
+            arr[0] = "none";
+            arr[1] = "none";
+            arr[2] = "none";
+            return arr;
+        }
+
+        std:: string get_sate(std::string zipcode)
+        {
+            std::string state_data , state_name , state_abb , zip_start , zip_end;
+            std::ifstream my_data;
+             my_data.open("data_generation/final_data/states.csv");
+            if (zipcode == "online")
+            {
+                return "online";
+            }
+           
+            while(my_data.eof())
+            {
+                std::getline(my_data , state_data);
+                std::stringstream ss(state_data);
+                std::getline(ss , state_name , '\t');
+                std::getline(ss , state_name , '\t');
+                std::getline(ss , state_abb , '\t');
+                std::getline(ss , zip_start , '\t');
+                std::getline(ss , zip_end , '\n');
+                
+                if (std::stoi(zipcode) > std::stoi(zip_start) && std::stoi(zipcode) < std::stoi(zip_end))
+                {
+                    return state_name + " " + state_abb;
+                }
+            }
+            return "other";
+        }
+
+        void transactions_without_fraud_by_states_setup(long int from , long int to)
+        {
+            std::string transaction , state , fraud;
+            std::ifstream flat_file;
+            flat_file.open("../card_transaction.v1.csv");
+            flat_file.seekg(from);
+
+            if(from == 0)
+            {
+                std::getline(flat_file, transaction);
+            }
+            while(flat_file.tellg() != to)
+            {
+                std::getline(flat_file, transaction);
+                std::stringstream ss(transaction);
+                for (int i=0; i<11; i++)
+                {
+                    std::getline(ss , state , ',');
+                }
+                while(true)
+                {
+                    std::getline(ss , fraud , ',');
+                    if (fraud == "Yes" || fraud == "No")
+                    {
+                        break;
+                    }
+                }
+
+                if (fraud == "No")
+                {
+                    
+                    std::map<std::string , int>::iterator it;
+                    it = mp.find(state);
+                    if (it == mp.end())
+                    {
+                        mp.insert({state , 1});
+                    }
+                    else
+                    {
+                        it->second += 1;
+                    }
+                }
+            }
+        }
+
+        void transactions_without_fraud_by_states()
+        {
+            std::vector<largest_transactions> my_vect;
+            largest_transactions temp;
+            temp.amount = 0;
+            temp.merchnat_id = "-1";
+            temp.uid = "-1";
+            for (int i =0; i<10; i++)
+            {
+                my_vect.push_back(temp);
+            }
+            std::ifstream index_file;
+            index_file.open("./utilities/data_processors/index_info.txt");
+            std::vector<long int> indices;  //to store index information
+            std::vector<std::thread> vector_of_threads; // for threads
+            while (index_file.good())
+            {
+                long int temp;
+                index_file >> temp;
+                // std::cout << "pushing temp" << temp << std::endl;
+                indices.push_back(temp);
+            }
+            
+            for (unsigned int i = 1; i < indices.size(); i++)
+            {
+                vector_of_threads.push_back(std::thread (&data_processor::transactions_without_fraud_by_states_setup, this , indices[i-1] , indices[i]));
+            }
+
+            for (unsigned int i = 0; i < indices.size()-1; i++)
+            {
+                vector_of_threads[i].join();
+            }
+            std::cout << "fault here " << std::endl;
+
+            std::vector<std::pair<std::string , std::vector<std::string>>> xmvect;
+            for (auto &i : mp)
+            {
+                std::vector<std::string> internalvect;
+                internalvect.push_back(std::to_string(i.second));
+                xmvect.push_back(std::pair<std::string , std::vector<std::string>>({i.first , internalvect}));
+            }
+            TempXml xm;
+            xm.create_xml(xmvect , "State" , {"Number of transactions"});
         }
 
 
+        void transactions_above_100_after_8_setup(long int from , long int to)
+        {
+            std::string transaction , time , amount , zipcode;
+            int tm , amnt;
+            std::ifstream flat_file;
+            flat_file.open("../card_transaction.v1.csv");
+            flat_file.seekg(from);
+
+            if(from == 0)
+            {
+                std::getline(flat_file, transaction);
+            }
+            while(flat_file.tellg() != to)
+            {
+                std::getline(flat_file, transaction);
+                std::stringstream ss(transaction);
+                for (int i = 0; i<6; i++)
+                {
+                    std::getline(ss , time , ',');
+                }
+                std::getline(ss , amount , ',');
+                for (int i =0; i<5; i++)
+                {
+                    std::getline(ss , zipcode , ',');
+                }
+                if (zipcode == "")
+                {
+                    zipcode = "online";
+                }
+                amount.erase(0,1);
+                tm = std::stoi(time);
+                amnt = std::stoi(amount);
+
+                if (tm >= 8 && amnt > 100)
+                {
+                    std::map<std::string , int>::iterator it;
+                    it = mp.find(zipcode);
+                    if (it == mp.end())
+                    {
+                        std::lock_guard<std::mutex> lock(mtx);
+                        mp.insert({zipcode , 1});
+                    }
+                    else
+                    {
+                        std::lock_guard<std::mutex> lock(mtx);
+                        it->second += 1;
+                    }
+                }
+            }
+        }
+
+        void transactions_above_100_after_8()
+        {
+            std::ifstream index_file;
+            index_file.open("./utilities/data_processors/index_info.txt");
+            std::vector<long int> indices;  //to store index information
+            std::vector<std::thread> vector_of_threads; // for threads
+            while (index_file.good())
+            {
+                long int temp;
+                index_file >> temp;
+                // std::cout << "pushing temp" << temp << std::endl;
+                indices.push_back(temp);
+            }
+            
+            for (unsigned int i = 1; i < indices.size(); i++)
+            {
+                vector_of_threads.push_back(std::thread (&data_processor::transactions_above_100_after_8_setup , this , indices[i-1] , indices[i]));
+            }
+
+            for (unsigned int i = 0; i < indices.size()-1; i++)
+            {
+                vector_of_threads[i].join();
+            }
+            
+            std::vector<std::pair<std::string , std::vector<std::string>>> xmvect;
+
+            for (auto &i : mp)
+            {
+                std::vector<std::string> internalvect;
+                internalvect.push_back(get_sate(i.first));
+                internalvect.push_back(std::to_string(i.second));
+                xmvect.push_back(std::pair<std::string , std::vector<std::string>>({i.first , internalvect}));
+            }
+
+            TempXml xm;
+            xm.create_xml(xmvect , "Zipcode" , {"State Name","Number of transactions"});
+        }
 };

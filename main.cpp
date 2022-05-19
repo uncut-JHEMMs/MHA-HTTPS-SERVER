@@ -24,6 +24,10 @@
 #include "./resources/dataprocessing_resource/deposits_by_given_user.h"
 #include "./resources/dataprocessing_resource/top_five_group_by_cities_with_total_number_of_transactions_resource.h"
 #include "./resources/dataprocessing_resource/top_five_recurring_transactions_groupby+merchants_resource.h"
+#include "./resources/dataprocessing_resource/t5_groupby_zipcodes_amount_resource.h"
+#include "./resources/dataprocessing_resource/t10_largest_transactions_resource.h"
+#include "./resources/dataprocessing_resource/transactions_without_fraud_by_states_resource.h"
+#include "./resources/dataprocessing_resource/transactions_above_100_after_8_resource.h"
 
 
 using namespace httpserver;
@@ -101,7 +105,17 @@ int main(int argc, char** argv)
     top_five_recurring_transactions_groupby_merchants tpm;
     ws.register_resource("/top_five_recurring_transactions" , &tpm);
 
+    t5_groupby_zipcodes_amount_resource tgz;
+    ws.register_resource("t5_by_code_by_amount" , &tgz);
 
+    t10_largest_transactions_resource tlt;
+    ws.register_resource("t10_largest_transactions" , &tlt);
+
+    transactions_without_fraud_by_states_resource tfs;
+    ws.register_resource("transactions_without_fraud" , &tfs);
+
+    transactions_above_100_after_8_resource ta8;
+    ws.register_resource("transactions_above_100_after_8" , &ta8);
 
     ws.start(true);
     

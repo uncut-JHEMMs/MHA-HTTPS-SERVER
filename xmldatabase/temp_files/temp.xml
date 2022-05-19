@@ -1,0 +1,3882 @@
+<?xml version="1.0" ?>
+<Signature key_info="RSA">
+    <Certificate>-----BEGIN PUBLIC KEY-----&#x0A;MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyXkkvd1ozSIAyPr3WFdL&#x0A;O2q+Hz+WRTiOqjR2D+fFTpWVEhhbVG1hLiU9hvPci9BJhcsYX+xfRzA2am9X0hzm&#x0A;uxQj5VvI5NnjqXf9aYsxTWJS62/HWgxbABu72CZNjBUbKSFUdtokjczUNrDsNGaV&#x0A;gV3MLboy6ayeMVYxlZ8+HZFu8H5KuZ+DWKfkdtB2zaGLsBK7R+B23fqVuZ3l8eGz&#x0A;oyyGMQTOxiPNHJFTV/Z2QLzvAVyiHvvLJohS0xhiqG5/OqgSf5X2FDrEdpGIFOLY&#x0A;XDJO8Y9aeCfTJQR77RXMXLThXA6cgKvUDnSBrK6mPFbAPzJnTP/4ij9xhterpjN8&#x0A;EQIDAQAB&#x0A;-----END PUBLIC KEY-----&#x0A;</Certificate>
+    <Digest Value>SzYlLM8xFZEx+yQ4bCchtwBjty5VtklS4g+uxZCjUfzRFhZwfgu4VwyMsu2igMO3&#x0A;FAnCQZe1ySKeyqhMBWHo2vdxr0JG2oeCwnQgIvcg05RSdLxgiOmEPZp7Yn/Idk8w&#x0A;QtXhVqMKvSyqHG0/hPHRpmdsXi2iZFuHlPliqefOVj1LmiAvEusAZSk00HcM0Q5i&#x0A;HWLapBNS7susM4QObqDeMtIPT2vkcfm/nMLHtaO6yydEvfhjEa1rfZZTb+7L0DTj&#x0A;69cyslI8RdmmwEPsAWrcHIcv5Zba58iXwT5KSFQbw6H3PWzNqAcqpun+UDzi1dOQ&#x0A;FJM4jL82IXqzxZ+dFkm7DA==&#x0A;</Digest Value>
+</Signature>
+<data>
+    <Amount field="$42.98">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$11.53">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$40.00">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$1.99">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$54.92">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$8.15">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$35.99">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$11.11">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$9.63">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$9.19">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$8.14">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$41.32">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$6.16">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$43.05">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$14.97">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$17.47">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$43.04">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$50.51">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$44.59">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$30.34">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$45.33">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$38.48">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$9.38">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$2.23">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$28.88">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$9.35">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$18.88">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$9.39">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$192.38">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$7.44">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$12.66">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$19.14">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$40.97">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$45.65">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$6.93">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$9.92">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$39.55">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$35.36">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$39.35">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$1.82">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$8.00">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$2.19">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$25.36">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$16.03">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$43.81">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$7.26">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$39.09">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$52.10">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$7.42">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$44.07">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$40.00">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$29.04">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$12.03">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$45.16">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$37.81">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$8.14">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$44.49">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$50.81">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$41.80">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$41.13">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$19.17">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$40.77">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$1.69">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$16.15">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$11.96">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$33.28">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$13.64">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$8.90">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$60.81">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$14.40">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$45.60">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$49.04">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$15.34">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$1.58">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$40.00">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$51.31">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$24.05">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$8.10">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$9.38">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$33.22">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$40.89">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$52.39">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$46.76">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$42.67">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$8.99">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$45.86">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$13.30">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$11.19">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$60.00">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$22.13">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$9.58">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$-97.00">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$8.57">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$37.31">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$45.05">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$14.25">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$43.20">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$50.31">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$42.00">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$44.60">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$54.55">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$40.76">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$186.11">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$108.71">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$2.01">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$47.60">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$16.87">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$38.55">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$44.76">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$31.82">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$38.91">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$69.00">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$42.79">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$8.44">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$45.34">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$15.61">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$12.00">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$7.42">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$18.95">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$18.48">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$40.76">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$37.11">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$6.48">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$43.92">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$12.92">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$15.69">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$55.95">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$14.12">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$5.61">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$15.24">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$47.54">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$2.01">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$7.68">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$44.04">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$40.00">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$47.81">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$21.38">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$1.02">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$12.33">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$35.43">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$40.00">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$61.31">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$42.98">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$39.52">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$1.84">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$8.32">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$46.18">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$16.66">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$40.71">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$14.72">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$88.88">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$10.30">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$77.60">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$41.40">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$77.63">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$51.54">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$107.14">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$55.58">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$8.28">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$107.82">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$45.36">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$7.12">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$92.51">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$41.88">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$60.00">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$70.55">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$11.76">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$44.24">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$100.00">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$4.23">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$34.30">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$68.00">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$32.98">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$89.03">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$50.73">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$82.10">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$37.01">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$50.28">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$12.04">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$14.20">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$49.31">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$51.97">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$14.12">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$49.37">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$56.25">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$51.49">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$11.63">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$46.23">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$93.28">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$14.44">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$63.45">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$49.37">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$45.03">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$45.18">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$1.69">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$100.97">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$57.68">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$19.14">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$93.29">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$9.47">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$2.49">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$109.47">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$46.32">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$16.27">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$15.65">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$99.47">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$44.16">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$13.50">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$56.78">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$31.17">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$22.97">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$38.52">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$101.46">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$10.72">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$121.70">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$130.59">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$18.09">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$28.63">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$42.65">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$91.98">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$43.21">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$86.50">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$9.00">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$12.44">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$103.66">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$12.70">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$16.09">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$75.00">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$103.81">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$49.87">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$117.92">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$15.24">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$72.36">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$40.70">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$40.79">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$87.70">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$16.35">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$55.68">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$67.82">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$40.13">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$38.01">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$280.40">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$2.00">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$52.79">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$65.22">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$-65.00">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$6.44">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$40.00">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$42.73">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$106.18">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$56.17">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$43.63">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$69.88">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$54.89">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$22.70">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$100.05">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$41.01">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$35.30">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$187.48">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$50.89">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$59.52">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$15.94">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$4.83">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$44.66">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$58.84">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$35.92">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$21.03">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$51.60">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$19.28">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$8.76">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$10.97">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$19.91">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$33.76">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$2.01">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$11.97">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$13.77">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$50.23">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$45.46">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$20.93">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$11.77">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$12.20">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$8.15">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$7.45">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$27.72">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$13.79">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$47.50">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$49.01">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$16.05">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$33.75">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$41.51">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$58.95">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$12.01">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$19.24">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$22.07">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$100.42">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$16.50">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$51.71">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$11.99">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$53.55">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$40.85">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$1.93">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$10.57">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$42.58">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$37.87">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$30.34">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$9.11">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$15.45">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$49.94">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$32.86">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$2.20">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$188.06">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$55.87">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$2.00">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$10.54">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$32.74">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$38.73">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$60.00">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$8.34">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$52.01">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$46.77">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$204.70">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$51.30">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$43.70">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$57.11">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$10.80">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$45.84">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$45.35">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$40.66">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$21.53">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$26.08">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$30.43">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$50.21">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$46.24">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$32.52">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$40.00">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$37.27">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$15.19">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$6.32">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$7.66">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$45.09">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$12.13">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$63.00">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$39.69">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$47.90">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$29.54">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$12.72">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$22.32">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$47.73">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$35.93">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$48.81">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$19.23">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$41.07">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$20.42">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$7.46">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$58.92">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$15.50">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$43.04">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$31.06">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$31.03">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$7.26">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$11.60">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$10.90">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$5.93">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$44.32">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$12.32">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$47.55">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$57.80">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$1.86">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$62.32">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$42.44">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$6.97">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$37.42">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$56.53">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$63.13">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$54.02">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$43.52">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$13.11">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$8.51">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$8.38">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$14.29">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$45.86">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$45.19">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$4.55">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$56.87">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$14.81">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$52.31">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$36.36">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$7.23">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$27.49">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$35.77">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$10.55">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$6.58">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$2.47">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$41.08">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$8.22">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$43.09">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$8.55">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$42.80">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$9.86">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$53.01">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$7.53">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$8.45">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$36.35">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$41.95">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$47.66">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$6.33">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$-56.00">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$44.40">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$12.82">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$47.94">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$11.93">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$16.98">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$32.18">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$49.51">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$23.38">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$14.38">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$36.16">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$41.26">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$9.86">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$858.17">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$53.51">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$9.32">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$47.57">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$6.97">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$10.84">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$61.34">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$2.36">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$57.67">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$2.30">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$10.94">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$7.54">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$13.19">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$15.00">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$31.48">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$47.03">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$11.42">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$27.47">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$38.91">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$41.18">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$167.73">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$156.68">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$1.25">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$12.45">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$48.35">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$40.83">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$31.91">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$16.19">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$26.36">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$42.75">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$44.50">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$16.69">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$23.17">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$7.76">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$48.85">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$7.47">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$19.80">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$-60.00">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$40.92">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$14.51">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$1.60">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$37.80">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$9.58">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$42.15">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$73.59">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$6.16">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$47.26">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$9.53">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$7.47">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$36.35">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$50.76">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$4.93">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$12.14">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$99.00">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$41.50">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$21.55">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$58.39">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$168.97">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$10.48">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$44.17">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$12.83">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$44.68">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$45.10">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$7.10">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$34.60">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$121.08">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$38.36">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$54.75">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$42.94">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$-99.00">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$22.44">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$36.53">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$10.70">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$10.20">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$43.47">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$13.52">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$10.35">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$51.19">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$1.54">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$9.04">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$10.42">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$60.00">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$41.53">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$47.43">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$1.60">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$48.98">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$43.63">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$62.42">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$39.75">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$54.17">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$37.73">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$-221.00">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$52.39">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$12.29">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$11.57">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$18.84">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$13.03">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$28.90">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$96.34">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$43.64">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$38.82">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$1.81">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$2.66">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$2.11">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$45.18">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$1.35">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$41.00">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$5.33">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$32.48">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$41.15">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$54.18">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$7.03">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$49.96">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$48.51">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$-79.00">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$1.94">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$11.73">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$25.14">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$40.51">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$1.75">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$60.24">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$48.87">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$20.00">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$31.70">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$7.01">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$21.69">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$45.45">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$44.27">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$60.00">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$45.34">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$45.44">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$33.27">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$31.85">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$16.47">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$1.47">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$9.81">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$61.50">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$40.77">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$-58.00">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$135.50">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$6.40">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$14.77">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$12.28">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$41.10">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$39.50">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$18.14">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$24.14">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$40.69">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$26.80">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$46.40">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$43.00">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$1.00">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$56.84">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$-91.00">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$42.50">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$35.08">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$11.93">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$186.31">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$52.21">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$77.00">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$14.75">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$33.35">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$46.91">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$42.03">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$9.38">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$10.83">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$50.59">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$50.38">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$52.61">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$43.71">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$1.38">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$54.13">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$9.10">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$15.42">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$46.56">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$32.30">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$18.18">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$56.13">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$43.21">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$55.57">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$41.72">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$48.92">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$12.65">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$41.54">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$41.60">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$17.30">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$17.30">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$4.73">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$8.13">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$55.38">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$13.70">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$49.69">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$1.60">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$6.94">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$45.65">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$5.57">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$143.83">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$341.63">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$35.25">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$17.05">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$8.67">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$50.83">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$8.46">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$13.93">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$2.69">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$36.72">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$19.41">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$5.67">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$55.65">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$10.73">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$16.73">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$38.37">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$42.88">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$7.84">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$41.45">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$7.35">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$41.56">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$48.19">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$42.07">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$7.80">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$3.69">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$7.60">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$14.60">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$9.09">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$35.36">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$24.36">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$12.41">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$7.48">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$63.05">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$22.93">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$9.23">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$44.73">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$129.79">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$9.25">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$46.24">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$52.87">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$13.66">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$60.00">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$13.08">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$46.78">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$33.44">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$44.44">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$31.83">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$31.68">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$47.04">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$40.59">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$10.78">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$112.71">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$10.83">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$12.01">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$7.88">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$24.59">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$10.12">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$20.26">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$47.56">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$45.67">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$52.92">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$43.43">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$9.69">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$40.96">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$37.94">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$2.30">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$13.41">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$58.77">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$36.94">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$111.77">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$15.71">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$8.42">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$8.70">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$11.91">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$885.21">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$37.58">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$18.95">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$13.86">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$44.76">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$54.55">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$10.54">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$31.14">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$8.54">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$43.70">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$38.04">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$1.91">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$1.35">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$9.34">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$43.28">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$50.36">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$143.22">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$13.00">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$78.16">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$43.43">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$46.50">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$50.47">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$16.09">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$42.22">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$1.71">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$14.50">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$14.54">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$41.05">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$98.15">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$48.46">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$12.06">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$28.08">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$68.56">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$2.25">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$48.97">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$1.81">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$60.00">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$37.95">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$18.51">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$42.44">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$14.26">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$43.22">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$8.06">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$38.87">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$11.77">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$56.89">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$11.24">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$13.97">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$11.47">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$47.89">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$10.28">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$7.72">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$54.55">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$25.11">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$42.50">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$7.99">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$50.50">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$49.91">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$29.60">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$14.28">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$11.66">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$31.27">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$38.01">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$40.00">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$8.52">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$27.28">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$1.73">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$11.82">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$58.63">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$2.44">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$33.13">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$7.33">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$44.95">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$16.02">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$41.04">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$8.91">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$14.36">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$52.79">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$16.71">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$41.83">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$19.21">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$62.26">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$14.07">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$53.31">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$7.71">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+    <Amount field="$7.25">
+        <First Name>Luis</First Name>
+        <Last Name>Vaughn</Last Name>
+        <Email>LuisVaughn@smoothstack.com&#x0D;</Email>
+    </Amount>
+</data>
