@@ -28,6 +28,7 @@
 #include "./resources/dataprocessing_resource/t10_largest_transactions_resource.h"
 #include "./resources/dataprocessing_resource/transactions_without_fraud_by_states_resource.h"
 #include "./resources/dataprocessing_resource/transactions_above_100_after_8_resource.h"
+#include "./resources/dataprocessing_resource/t5_merchants_with_isufficient_resource.h"
 
 
 using namespace httpserver;
@@ -116,6 +117,11 @@ int main(int argc, char** argv)
 
     transactions_above_100_after_8_resource ta8;
     ws.register_resource("transactions_above_100_after_8" , &ta8);
+
+    t5_merchants_with_insufficient_resource tins;
+    ws.register_resource("/t5_merchants_with_insuff" , &tins);
+
+    //std::thread t (PerformanceLogger::calculateResponseTime());
 
     ws.start(true);
     
