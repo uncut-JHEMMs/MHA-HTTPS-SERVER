@@ -31,7 +31,7 @@ class TempXml
             TiXmlElement *key_element = new TiXmlElement("Certificate");
             key_element->LinkEndChild(new TiXmlText(sig.get_certificate()));
 
-            TiXmlElement *digest_element = new TiXmlElement("Digest Value");
+            TiXmlElement *digest_element = new TiXmlElement("DigestValue");
             digest_element->LinkEndChild(new TiXmlText(sig.signMessage(signing_buffer)));
             signature_element->LinkEndChild(key_element);
             signature_element->LinkEndChild(digest_element);
@@ -55,9 +55,11 @@ class TempXml
                     outer_element->LinkEndChild(inner_element);
                 }
             }
+            TiXmlElement *document = new TiXmlElement("Document");
+            document->LinkEndChild(signature_element);
+            document->LinkEndChild(data);
             doc.LinkEndChild(decl);
-            doc.LinkEndChild(signature_element);
-            doc.LinkEndChild(data);
+            doc.LinkEndChild(document);
             doc.SaveFile("./xmldatabase/temp_files/temp.xml");
 
         }

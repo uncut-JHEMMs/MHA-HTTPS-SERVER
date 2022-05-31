@@ -1164,10 +1164,12 @@ class data_processor
                     it = gpset.find(merchant);
                     if (it == gpset.end()) //merchant is not in the map
                     {
+                        std::lock_guard<std::mutex> lock(mtx);
                         gpset.insert({merchant , 1});
                     }
                     else
                     {
+                        std::lock_guard<std::mutex> lock(mtx);
                         it->second += 1;
                     }
                 }
@@ -1212,6 +1214,79 @@ class data_processor
 
             TempXml xm;
             xm.create_xml(xmvect , "MerchantID" , {"MerchantName" , "InsufficientBalannceCount"});
+
+        }
+
+
+
+        void bot5_months_with_online_transactions_setup(long int from , long int to)
+        {
+            std::string month , city;
+            FileReader reader(from , to , "../card_transaction.v1.csv");
+            if(from == 0)
+            {
+                reader.next_line();
+            }
+            while(reader.next_line())
+            {
+                month = reader.get_month();
+                city = reader.get_merchant_city();
+                
+
+                if (city == " ONLINE")
+                {
+                    std::map<std::string , int>::iterator it;
+                    it = gpset.find(month);
+                    if (it == gpset.end())
+                    {
+                        // std::lock_guard<std::mutex> lock(mtx);
+                        gpset.insert({month , 1});
+                    } 
+                    else
+                    {
+                        // std::lock_guard<std::mutex> lock(mtx);
+                        it->second += 1;
+                    }
+                }
+            }
+        }
+        void bot5_months_with_online_transactions()
+        {
+            std::vector<long int> indices;  //to store index information
+            std::vector<std::thread> vector_of_threads; // for threads
+            get_index_info(indices);
+            
+            for (unsigned int i = 1; i < indices.size(); i++)
+            {
+                vector_of_threads.push_back(std::thread (&data_processor::bot5_months_with_online_transactions_setup , this , indices[i-1] , indices[i]));
+            }
+
+            for (unsigned int i = 0; i < indices.size()-1; i++)
+            {
+                vector_of_threads[i].join();
+            }
+
+            std::vector<std::pair<std::string , int>> vect;
+            for (int i = 0; i<5; i++)
+            {
+                auto pr = std::min_element(gpset.begin(), gpset.end(), [](const auto &x, const auto &y) {
+                    return x.second < y.second;
+                });
+                vect.push_back({pr->first, pr->second});
+                gpset.erase(pr->first);
+            }
+            gpset.clear(); 
+            
+            
+            std::vector<std::pair<std::string , std::vector<std::string>>> xmvect;
+            for (auto &i : vect)
+            {
+                std::vector<std::string> internalvect;
+                internalvect.push_back(std::to_string(i.second));
+                xmvect.push_back(std::pair<std::string , std::vector<std::string>>({i.first , internalvect}));
+            }
+            TempXml xm;
+            xm.create_xml(xmvect , "Month" , {"TransactionCount"});
 
         }
 };

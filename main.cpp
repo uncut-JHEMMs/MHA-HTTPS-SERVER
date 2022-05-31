@@ -29,7 +29,7 @@
 #include "./resources/dataprocessing_resource/transactions_without_fraud_by_states_resource.h"
 #include "./resources/dataprocessing_resource/transactions_above_100_after_8_resource.h"
 #include "./resources/dataprocessing_resource/t5_merchants_with_isufficient_resource.h"
-
+#include "./resources/dataprocessing_resource/bot5_month_with_insuffcient_resource.h"
 
 using namespace httpserver;
 
@@ -121,6 +121,9 @@ int main(int argc, char** argv)
     t5_merchants_with_insufficient_resource tins;
     ws.register_resource("/t5_merchants_with_insuff" , &tins);
 
+    bot5_month_with_insufficient_resource  bmi;
+    ws.register_resource("bot5_with_insuff" , &bmi);
+    
     //std::thread t (PerformanceLogger::calculateResponseTime());
 
     ws.start(true);
