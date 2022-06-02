@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<Signature key_info="RSA">
+    <Certificate>-----BEGIN PUBLIC KEY-----&#x0A;MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyXkkvd1ozSIAyPr3WFdL&#x0A;O2q+Hz+WRTiOqjR2D+fFTpWVEhhbVG1hLiU9hvPci9BJhcsYX+xfRzA2am9X0hzm&#x0A;uxQj5VvI5NnjqXf9aYsxTWJS62/HWgxbABu72CZNjBUbKSFUdtokjczUNrDsNGaV&#x0A;gV3MLboy6ayeMVYxlZ8+HZFu8H5KuZ+DWKfkdtB2zaGLsBK7R+B23fqVuZ3l8eGz&#x0A;oyyGMQTOxiPNHJFTV/Z2QLzvAVyiHvvLJohS0xhiqG5/OqgSf5X2FDrEdpGIFOLY&#x0A;XDJO8Y9aeCfTJQR77RXMXLThXA6cgKvUDnSBrK6mPFbAPzJnTP/4ij9xhterpjN8&#x0A;EQIDAQAB&#x0A;-----END PUBLIC KEY-----&#x0A;</Certificate>
+    <Digest Value>A73xag5nHaG6UPTEOhlFq6c1m2vB+X5blIzTwc+1mf0EJ2X+GAd801okzUM5b6jn&#x0A;ZFUGJ9mxAUM/WSgMzGKpHmcTjHvep5IZV4fE4qBv6ZwxPHRLN4J3DXcm9xfxMRBk&#x0A;L2S/b6zO6rdhicKqYCULvvQw95YXEixdLJN5miO39ENsfvPSBPxP23qo66FV0a5S&#x0A;XoyjsVRVVbrFNh5ZtobFBnCEEC1GlxXumyyK+OnrO3lsFALgzAKuqiKCClnwvBoF&#x0A;mDtJ1FGnh16r+BG0wiN2XcqEMJeh5Kubn1cbQAxR/Zmc2JY1s7eFKi80bO0sK7E8&#x0A;xTKK7GOIc9Q4oLHbwwAUoA==&#x0A;</Digest Value>
+</Signature>
+<Person id="ssn">
+    <Cutomer uid="32">
+        <First Name>Michelle</First Name>
+        <Last Name>Vasquez</Last Name>
+        <Email>MichelleVasquez@smoothstack.com</Email>
+    </Cutomer>
+</Person>

@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<Signature key_info="RSA">
+    <Certificate>-----BEGIN PUBLIC KEY-----&#x0A;MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyXkkvd1ozSIAyPr3WFdL&#x0A;O2q+Hz+WRTiOqjR2D+fFTpWVEhhbVG1hLiU9hvPci9BJhcsYX+xfRzA2am9X0hzm&#x0A;uxQj5VvI5NnjqXf9aYsxTWJS62/HWgxbABu72CZNjBUbKSFUdtokjczUNrDsNGaV&#x0A;gV3MLboy6ayeMVYxlZ8+HZFu8H5KuZ+DWKfkdtB2zaGLsBK7R+B23fqVuZ3l8eGz&#x0A;oyyGMQTOxiPNHJFTV/Z2QLzvAVyiHvvLJohS0xhiqG5/OqgSf5X2FDrEdpGIFOLY&#x0A;XDJO8Y9aeCfTJQR77RXMXLThXA6cgKvUDnSBrK6mPFbAPzJnTP/4ij9xhterpjN8&#x0A;EQIDAQAB&#x0A;-----END PUBLIC KEY-----&#x0A;</Certificate>
+    <Digest Value>TXjV/HxfCI9H/cerS9WB2L/fMJj2ZmaqWvk3Gk3gBUINP5qMarze02OpTz6j2o9Z&#x0A;qnBN0jW9hnSwIyxLB6q3KqIQEunwXY8+AzAd35k8ocBq8wl/mKajHs13+dyiGMzF&#x0A;JRkLOpBpMpBmQ4Fucqy4ENalwP7v2L9UDoop25SpGyWs6OuoPtUGwDAXUjR77IP+&#x0A;Su1L/8ZDF/hNPUtjfRSykEK8acIv/9YyBDRhKEjqnCEgwpnaJPY9SPLs/sADta0A&#x0A;g3qvpXlGJALqYrmWrO0SrcBmze/1FSMNyGsbCRZTnmA5b1bgZtVOXm5/IxUXf5+f&#x0A;EqHdqzWgBRsMONUCx6fJSw==&#x0A;</Digest Value>
+</Signature>
+<Person id="ssn">
+    <Cutomer uid="21">
+        <First Name>Pamela</First Name>
+        <Last Name>Waters</Last Name>
+        <Email>PamelaWaters@smoothstack.com</Email>
+    </Cutomer>
+</Person>

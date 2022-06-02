@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<Signature key_info="RSA">
+    <Certificate>-----BEGIN PUBLIC KEY-----&#x0A;MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyXkkvd1ozSIAyPr3WFdL&#x0A;O2q+Hz+WRTiOqjR2D+fFTpWVEhhbVG1hLiU9hvPci9BJhcsYX+xfRzA2am9X0hzm&#x0A;uxQj5VvI5NnjqXf9aYsxTWJS62/HWgxbABu72CZNjBUbKSFUdtokjczUNrDsNGaV&#x0A;gV3MLboy6ayeMVYxlZ8+HZFu8H5KuZ+DWKfkdtB2zaGLsBK7R+B23fqVuZ3l8eGz&#x0A;oyyGMQTOxiPNHJFTV/Z2QLzvAVyiHvvLJohS0xhiqG5/OqgSf5X2FDrEdpGIFOLY&#x0A;XDJO8Y9aeCfTJQR77RXMXLThXA6cgKvUDnSBrK6mPFbAPzJnTP/4ij9xhterpjN8&#x0A;EQIDAQAB&#x0A;-----END PUBLIC KEY-----&#x0A;</Certificate>
+    <Digest Value>azadZ1CaRq14rSrxe7h2kXIffj8T/rrSgfLBqcxPbWMKJRf6yTzh/chGwZ14Yeal&#x0A;5DvnhhlRFp+p4jflrCkb3wRthoq64HPfRsLK/CnhyheeUTF9waLRurlS3+Ewvv+D&#x0A;+s2btunmhIffhy5WkXkReGUjKf5HMN7Z6LoNg1knJqpMP5XrRoP7VQo32xIKlQWb&#x0A;ibDacZTprzuFJekY35QO/iMhay53r8wGH0y22lFml69rak21ikjMsoy71OlS7+49&#x0A;Xl8M0PSOzxBagwhD78XgzkC2W6H39uDDsZtv+ClF2jTsBcFi5OrDc1tFF3lJD5+Q&#x0A;ZXua/dGItHsZxE0ltXyaUA==&#x0A;</Digest Value>
+</Signature>
+<Person id="ssn">
+    <Cutomer uid="34">
+        <First Name>James</First Name>
+        <Last Name>Peterson</Last Name>
+        <Email>JamesPeterson@smoothstack.com</Email>
+    </Cutomer>
+</Person>

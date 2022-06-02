@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<Signature key_info="RSA">
+    <Certificate>-----BEGIN PUBLIC KEY-----&#x0A;MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyXkkvd1ozSIAyPr3WFdL&#x0A;O2q+Hz+WRTiOqjR2D+fFTpWVEhhbVG1hLiU9hvPci9BJhcsYX+xfRzA2am9X0hzm&#x0A;uxQj5VvI5NnjqXf9aYsxTWJS62/HWgxbABu72CZNjBUbKSFUdtokjczUNrDsNGaV&#x0A;gV3MLboy6ayeMVYxlZ8+HZFu8H5KuZ+DWKfkdtB2zaGLsBK7R+B23fqVuZ3l8eGz&#x0A;oyyGMQTOxiPNHJFTV/Z2QLzvAVyiHvvLJohS0xhiqG5/OqgSf5X2FDrEdpGIFOLY&#x0A;XDJO8Y9aeCfTJQR77RXMXLThXA6cgKvUDnSBrK6mPFbAPzJnTP/4ij9xhterpjN8&#x0A;EQIDAQAB&#x0A;-----END PUBLIC KEY-----&#x0A;</Certificate>
+    <Digest Value>TUCiEwUhb/1ueqvlm5GaTvuLa1wcI6taWi0xy8xR8ZfkhrfDVkIDfPmpAH/nUtVM&#x0A;bMkjtQth4ZCrFd1/f/YI3RJEBMnNSafH7zI/TxtC2kAo4TSpkvi57UbaAHCpHU/H&#x0A;1d26lUmzKLeFVLuSD29d7APHU+aFuTqglzGmco74qN58D3/oG4IJ/PiIt7szgEav&#x0A;BLFrLqjO+8U6r7HQPoSewSITa2pdFYoNI9N/4sDRutdVKEZyQpFF7suLTZJEo9oZ&#x0A;WbNwH908SV3kc4/x2n29SFG+wGh3c951l4E9JFWEFifID5aOryK+bcSJ9UZNQGTv&#x0A;sdkYE72F1x3QiYB9k68dPQ==&#x0A;</Digest Value>
+</Signature>
+<Person id="ssn">
+    <Cutomer uid="23">
+        <First Name>Wanda</First Name>
+        <Last Name>Rodriguez</Last Name>
+        <Email>WandaRodriguez@smoothstack.com</Email>
+    </Cutomer>
+</Person>

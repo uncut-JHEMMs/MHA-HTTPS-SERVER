@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<Signature key_info="RSA">
+    <Certificate>-----BEGIN PUBLIC KEY-----&#x0A;MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyXkkvd1ozSIAyPr3WFdL&#x0A;O2q+Hz+WRTiOqjR2D+fFTpWVEhhbVG1hLiU9hvPci9BJhcsYX+xfRzA2am9X0hzm&#x0A;uxQj5VvI5NnjqXf9aYsxTWJS62/HWgxbABu72CZNjBUbKSFUdtokjczUNrDsNGaV&#x0A;gV3MLboy6ayeMVYxlZ8+HZFu8H5KuZ+DWKfkdtB2zaGLsBK7R+B23fqVuZ3l8eGz&#x0A;oyyGMQTOxiPNHJFTV/Z2QLzvAVyiHvvLJohS0xhiqG5/OqgSf5X2FDrEdpGIFOLY&#x0A;XDJO8Y9aeCfTJQR77RXMXLThXA6cgKvUDnSBrK6mPFbAPzJnTP/4ij9xhterpjN8&#x0A;EQIDAQAB&#x0A;-----END PUBLIC KEY-----&#x0A;</Certificate>
+    <Digest Value>xMJC5K/teDL40y39+mMTK7PcyGfjyvCFkq9VAn73a5TwTfyMNhANWEtSFDlCIV0Q&#x0A;cXMUHH11VQ0U1K+bC3iS1zIzrPLOBNqmtkU2y8AmLkZm9dRA9vVJRa4NN7AwtqJL&#x0A;OiFD0QXh6rnVRN6SVI7OgaK/NMIl64y8yN48rXJfpnpoGcqLZk4aDG1MUrQEdyLU&#x0A;+K1hqIfrRo+J9gQIOEwNgrsmCTF+DfTFWfVT+rPLk+73pjpq7arTVrGBcAk5uqNY&#x0A;XnJilblpC5YTR6k3DJleytX2FzBJREvp7exSwx+q07DV+TLX5iltWMsZR/UqZgTm&#x0A;nxEVAFn9hHhfqHBTCcsnPA==&#x0A;</Digest Value>
+</Signature>
+<Person id="ssn">
+    <Cutomer uid="6">
+        <First Name>Donna</First Name>
+        <Last Name>Davis</Last Name>
+        <Email>DonnaDavis@smoothstack.com</Email>
+    </Cutomer>
+</Person>

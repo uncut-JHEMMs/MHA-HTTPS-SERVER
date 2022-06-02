@@ -15,4 +15,6 @@ openssl base64 -d -in ./signedB64 -out ./verSigned
 #verifying for if the msg is authentic or not
 openssl dgst -sha256 -verify ../ca-pub.pem -signature ./verSigned dum
 
+gprof2dot --format=callgrind --output=outfilename.dot filename
+dot -Tpng outfilename.dot -o graph.png
 

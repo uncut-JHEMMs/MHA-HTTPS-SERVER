@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<Signature key_info="RSA">
+    <Certificate>-----BEGIN PUBLIC KEY-----&#x0A;MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyXkkvd1ozSIAyPr3WFdL&#x0A;O2q+Hz+WRTiOqjR2D+fFTpWVEhhbVG1hLiU9hvPci9BJhcsYX+xfRzA2am9X0hzm&#x0A;uxQj5VvI5NnjqXf9aYsxTWJS62/HWgxbABu72CZNjBUbKSFUdtokjczUNrDsNGaV&#x0A;gV3MLboy6ayeMVYxlZ8+HZFu8H5KuZ+DWKfkdtB2zaGLsBK7R+B23fqVuZ3l8eGz&#x0A;oyyGMQTOxiPNHJFTV/Z2QLzvAVyiHvvLJohS0xhiqG5/OqgSf5X2FDrEdpGIFOLY&#x0A;XDJO8Y9aeCfTJQR77RXMXLThXA6cgKvUDnSBrK6mPFbAPzJnTP/4ij9xhterpjN8&#x0A;EQIDAQAB&#x0A;-----END PUBLIC KEY-----&#x0A;</Certificate>
+    <Digest Value>VV+IybBHDU8U4B7jQxCbQe9Bokf9ATfa2+DiTgdRGa0oTNqmGangWC2OGaITNIZB&#x0A;q+PH84nGU1c7Pbjhnt98Sw6pDe7n8A4oy8a5VtdKyL4OSSCsaDcTUSWezzuN0B5Z&#x0A;f6aKeXodb0J0Eunfq2tOV/UG1wK0DBbqEB0TF8PaSOOIfXoIf5R0XaIU/yc9bgo2&#x0A;xtQ8szAON+eqcE5ojlLCHu8tV357xThqzfbD/aH2ipR58W18mHMQc0qyn2M/bm3s&#x0A;pRAN5/AjL3fIqVcNMbo3R2uE0haohPBlrYiCsK9Oxsjll//wH2GfQ1wRzQDz69wc&#x0A;iK8uLNv76QKgowSDPG01Cg==&#x0A;</Digest Value>
+</Signature>
+<Person id="ssn">
+    <Cutomer uid="11">
+        <First Name>Russell</First Name>
+        <Last Name>Clark</Last Name>
+        <Email>RussellClark@smoothstack.com</Email>
+    </Cutomer>
+</Person>

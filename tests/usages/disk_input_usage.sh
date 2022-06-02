@@ -19,7 +19,7 @@ while true
 do
     read=$(iotop -b -p $PID -n1 | awk '(NR > 3) {print $4}') 
     write=$(iotop -b -p $PID -n1 | awk '(NR > 3) {print $6}')
-    dat=$(date +"%s")
+    dat=$(date)
     echo -e "$dat\t$read\t$write" | tee -a disk_usage_log.csv
-    sleep 1
+    sleep 0.1
 done

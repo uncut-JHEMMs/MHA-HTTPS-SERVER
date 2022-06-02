@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<Signature key_info="RSA">
+    <Certificate>-----BEGIN PUBLIC KEY-----&#x0A;MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyXkkvd1ozSIAyPr3WFdL&#x0A;O2q+Hz+WRTiOqjR2D+fFTpWVEhhbVG1hLiU9hvPci9BJhcsYX+xfRzA2am9X0hzm&#x0A;uxQj5VvI5NnjqXf9aYsxTWJS62/HWgxbABu72CZNjBUbKSFUdtokjczUNrDsNGaV&#x0A;gV3MLboy6ayeMVYxlZ8+HZFu8H5KuZ+DWKfkdtB2zaGLsBK7R+B23fqVuZ3l8eGz&#x0A;oyyGMQTOxiPNHJFTV/Z2QLzvAVyiHvvLJohS0xhiqG5/OqgSf5X2FDrEdpGIFOLY&#x0A;XDJO8Y9aeCfTJQR77RXMXLThXA6cgKvUDnSBrK6mPFbAPzJnTP/4ij9xhterpjN8&#x0A;EQIDAQAB&#x0A;-----END PUBLIC KEY-----&#x0A;</Certificate>
+    <Digest Value>DNSeEypD1VLLmMcYKTRRgorRKgqjT9hTriebETcFq9YAA9xQQTf2Ovy+LrxZakBN&#x0A;vx7ZeY+mQBX21LtBPRy0UgAlKNMeN+Q8EWhJrYoAFOROEB2PcHbgM2iE6GodFcY4&#x0A;1Uht/j7VQ23BaAMGdWiSVXtD/TJEqdP9PjA8MrQrBjX+9sbA95nEK1is4qNad/Ec&#x0A;rmQTUCj04YidPOkat1A3lkPvp4OW3luh9zGBBczxQ2pUepNdYBwq5h234h0NE5r2&#x0A;6icaMTB3YbZHRmquIyApEt0tDzk3VUfs3E+2Nc8HxKJNFuRYMeLDO7n3VBqqQsga&#x0A;d6U5yFbRydfFf2KaI+4kIQ==&#x0A;</Digest Value>
+</Signature>
+<Person id="ssn">
+    <Cutomer uid="7">
+        <First Name>Eric</First Name>
+        <Last Name>Bishop</Last Name>
+        <Email>EricBishop@smoothstack.com</Email>
+    </Cutomer>
+</Person>

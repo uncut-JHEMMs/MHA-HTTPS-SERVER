@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<Signature key_info="RSA">
+    <Certificate>-----BEGIN PUBLIC KEY-----&#x0A;MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyXkkvd1ozSIAyPr3WFdL&#x0A;O2q+Hz+WRTiOqjR2D+fFTpWVEhhbVG1hLiU9hvPci9BJhcsYX+xfRzA2am9X0hzm&#x0A;uxQj5VvI5NnjqXf9aYsxTWJS62/HWgxbABu72CZNjBUbKSFUdtokjczUNrDsNGaV&#x0A;gV3MLboy6ayeMVYxlZ8+HZFu8H5KuZ+DWKfkdtB2zaGLsBK7R+B23fqVuZ3l8eGz&#x0A;oyyGMQTOxiPNHJFTV/Z2QLzvAVyiHvvLJohS0xhiqG5/OqgSf5X2FDrEdpGIFOLY&#x0A;XDJO8Y9aeCfTJQR77RXMXLThXA6cgKvUDnSBrK6mPFbAPzJnTP/4ij9xhterpjN8&#x0A;EQIDAQAB&#x0A;-----END PUBLIC KEY-----&#x0A;</Certificate>
+    <Digest Value>n8WGJWsSAabeUbHEw9+u+AaYlfHq0w+AcTA5cXuFV8Dwpu6sUuAGJmnIcW63ur4Z&#x0A;6YpOO0aHw/UIncIfV5b+3mNKmCqAX/yiP9/UPawaaGFFsyIB6aGsHbv7qsNPkSzY&#x0A;LCZ7w7T3/iG083kW4PZ147LTV4fYu2kCC9A/dS4S1N9pQ06L/CcWqT+diFHHBxy/&#x0A;Bxq4dGwWPTOaZWs0IuaopFpF5eBakF97YnGGUUYsok+6bKesL+TWpH+ZeCeSG7YM&#x0A;maeCEN1GKEU3OXDsZfIqM9khtYZBUCNI0cWBd18W4vAh9MuqidpKjVoPR3ahGuci&#x0A;ucv2/9eTMt9Wm2pFpgZXgA==&#x0A;</Digest Value>
+</Signature>
+<Person id="ssn">
+    <Cutomer uid="26">
+        <First Name>Diane</First Name>
+        <Last Name>Rasmussen</Last Name>
+        <Email>DianeRasmussen@smoothstack.com</Email>
+    </Cutomer>
+</Person>
