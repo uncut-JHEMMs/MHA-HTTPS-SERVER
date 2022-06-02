@@ -1289,4 +1289,81 @@ class data_processor
             xm.create_xml(xmvect , "Month" , {"TransactionCount"});
 
         }
+
+        void groupby_merchant_online_setup(long int from , long int to)
+        {
+            std::string merchant , city;
+            std::set<std::string> merchants_with_online_transaction;
+            FileReader reader(from , to , "../card_transaction.v1.csv");
+            std::ifstream file("../online_merchants.csv");
+            while(!file.eof())
+            {
+                std::string online_merchant;
+                std::getline(file , online_merchant);
+                merchants_with_online_transaction.insert(online_merchant);
+            }
+            if(from == 0)
+            {
+                reader.next_line();
+            }
+            while(reader.next_line())
+            {
+                merchant = reader.get_merchant_id();
+                city = reader.get_merchant_city();
+                std::set<std::string>::iterator set_it;
+                set_it = merchants_with_online_transaction.find(merchant);
+                if (set_it != merchants_with_online_transaction.end()) //key is in the set
+                {
+                    std::map<std::string , int>::iterator it;
+                    it = gpset.find(city);
+                    if (it != gpset.end())
+                    {
+                        it->second += 1;
+                    }
+                    else
+                    {
+                        gpset.insert({city , 1});
+                    }
+                }
+
+            }
+        }
+        void groupby_merchant_online()
+        {
+            std::vector<long int> indices;  //to store index information
+            std::vector<std::thread> vector_of_threads; // for threads
+            get_index_info(indices);
+            
+            for (unsigned int i = 1; i < indices.size(); i++)
+            {
+                vector_of_threads.push_back(std::thread (&data_processor::groupby_merchant_online_setup , this , indices[i-1] , indices[i]));
+            }
+
+            for (unsigned int i = 0; i < indices.size()-1; i++)
+            {
+                vector_of_threads[i].join();
+            }
+            std::vector<std::pair<std::string , int>> vect;
+            for (int i = 0; i<10; i++)
+            {
+                auto pr = std::max_element(gpset.begin(), gpset.end(), [](const auto &x, const auto &y) {
+                    return x.second < y.second;
+                });
+                vect.push_back({pr->first, pr->second});
+                gpset.erase(pr->first);
+            }
+            gpset.clear();   //empty  the map to save memory
+
+            std::vector<std::pair<std::string , std::vector<std::string>>> xmvect;
+            for (auto &i : vect)
+            {
+                std::vector<std::string> internalvect;
+                internalvect.push_back(i.first);
+                internalvect.push_back(std::to_string(i.second));
+                xmvect.push_back(std::pair<std::string , std::vector<std::string>>({i.first , internalvect}));
+            }
+            TempXml xm;
+            xm.create_xml(xmvect , "City" , {"city_name" , "number_of_transactions"});
+
+        }
 };

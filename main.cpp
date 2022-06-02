@@ -30,6 +30,8 @@
 #include "./resources/dataprocessing_resource/transactions_above_100_after_8_resource.h"
 #include "./resources/dataprocessing_resource/t5_merchants_with_isufficient_resource.h"
 #include "./resources/dataprocessing_resource/bot5_month_with_insuffcient_resource.h"
+#include "./resources/dataprocessing_resource/groupby_merchants_online_city_resource.h"
+
 
 using namespace httpserver;
 
@@ -123,7 +125,11 @@ int main(int argc, char** argv)
 
     bot5_month_with_insufficient_resource  bmi;
     ws.register_resource("bot5_with_insuff" , &bmi);
-    
+
+    groupby_merchants_online_city_resource gmoc;
+    ws.register_resource("groupby_merchants_online_city" , &gmoc);
+
+
     //std::thread t (PerformanceLogger::calculateResponseTime());
 
     ws.start(true);
