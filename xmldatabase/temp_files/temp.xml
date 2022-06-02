@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<Document>
+    <Signature key_info="RSA">
+        <Certificate>-----BEGIN PUBLIC KEY-----&#x0A;MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyXkkvd1ozSIAyPr3WFdL&#x0A;O2q+Hz+WRTiOqjR2D+fFTpWVEhhbVG1hLiU9hvPci9BJhcsYX+xfRzA2am9X0hzm&#x0A;uxQj5VvI5NnjqXf9aYsxTWJS62/HWgxbABu72CZNjBUbKSFUdtokjczUNrDsNGaV&#x0A;gV3MLboy6ayeMVYxlZ8+HZFu8H5KuZ+DWKfkdtB2zaGLsBK7R+B23fqVuZ3l8eGz&#x0A;oyyGMQTOxiPNHJFTV/Z2QLzvAVyiHvvLJohS0xhiqG5/OqgSf5X2FDrEdpGIFOLY&#x0A;XDJO8Y9aeCfTJQR77RXMXLThXA6cgKvUDnSBrK6mPFbAPzJnTP/4ij9xhterpjN8&#x0A;EQIDAQAB&#x0A;-----END PUBLIC KEY-----&#x0A;</Certificate>
+        <DigestValue>CgIETotKdPbH7yttepFmB4Ucx70RN7obJnZngddSmTE5/8XmWX6hW37lnkxUEo9D&#x0A;2/GVgeYmK8qxp8Pj61+zXLI7pjWvjTMChnKuHDBLQ82XdYYfjBBMp9gR7V1h+/GO&#x0A;yGXpF6XujdbsZ2iyLNCJ/BR9qrJL/tOOjy+o1qV5qZK0uym1r90fXEGSz7iY5hK9&#x0A;i9aeWvpsxqkFdKoVGhaTeg4VmLXMKjZ0KRG4D4kZXugbttXH0eKIInh3QMeIzdhn&#x0A;RyOPPhdax3yfe8eQ7j9Vg2A7QbDQvoxBfBIpKd+SiwWSfJu9g32n/T4/bW9wngio&#x0A;D+6MYM9jxcEg6Li5wBjWNQ==&#x0A;</DigestValue>
+    </Signature>
+    <data>
+        <City field=" ONLINE">
+            <city_name> ONLINE</city_name>
+            <number_of_transactions>2703289</number_of_transactions>
+        </City>
+        <City field="Los Angeles">
+            <city_name>Los Angeles</city_name>
+            <number_of_transactions>52897</number_of_transactions>
+        </City>
+        <City field="Houston">
+            <city_name>Houston</city_name>
+            <number_of_transactions>50193</number_of_transactions>
+        </City>
+        <City field="Oakland">
+            <city_name>Oakland</city_name>
+            <number_of_transactions>42759</number_of_transactions>
+        </City>
+        <City field="Brooklyn">
+            <city_name>Brooklyn</city_name>
+            <number_of_transactions>40670</number_of_transactions>
+        </City>
+        <City field="San Jose">
+            <city_name>San Jose</city_name>
+            <number_of_transactions>37284</number_of_transactions>
+        </City>
+        <City field="San Antonio">
+            <city_name>San Antonio</city_name>
+            <number_of_transactions>36197</number_of_transactions>
+        </City>
+        <City field="Las Vegas">
+            <city_name>Las Vegas</city_name>
+            <number_of_transactions>35973</number_of_transactions>
+        </City>
+        <City field="Atlanta">
+            <city_name>Atlanta</city_name>
+            <number_of_transactions>35518</number_of_transactions>
+        </City>
+        <City field="Chicago">
+            <city_name>Chicago</city_name>
+            <number_of_transactions>35257</number_of_transactions>
+        </City>
+    </data>
+</Document>
